@@ -15,6 +15,22 @@ tools, or server-side apps.
 - Generated DTOs for listen payloads, playlists, UUIDs, and additional track metadata.
 - Works with any `http.Client`, so you can inject mocks in tests or add logging/middleware.
 
+## What has been done by now
+
+|   | Reference       |
+|---|-----------------|
+| ✔️ | [Core](https://listenbrainz.readthedocs.io/en/latest/users/api/core.html)            |
+| ✔️ | [Playlists](https://listenbrainz.readthedocs.io/en/latest/users/api/playlist.html)       |
+| ✖️ | [Recordings](https://listenbrainz.readthedocs.io/en/latest/users/api/recordings.html)      |
+| ✖️ | [Statistics](https://listenbrainz.readthedocs.io/en/latest/users/api/statistics.html)      |
+| ✖️ | [Popularity](https://listenbrainz.readthedocs.io/en/latest/users/api/popularity.html)      |
+| ✖️ | [Metadata](https://listenbrainz.readthedocs.io/en/latest/users/api/metadata.html)        |
+| ✖️ | [Social](https://listenbrainz.readthedocs.io/en/latest/users/api/social.html)          |
+| ✖️ | [Recommendations](https://listenbrainz.readthedocs.io/en/latest/users/api/recommendation.html) |
+| ✖️ | [Art](https://listenbrainz.readthedocs.io/en/latest/users/api/art.html)             |
+| ✖️ | [Settings](https://listenbrainz.readthedocs.io/en/latest/users/api/settings.html)        |
+| ✖️ | [Miscellaneous](https://listenbrainz.readthedocs.io/en/latest/users/api/misc.html)   |
+
 ## Installation
 
 ```bash
@@ -104,13 +120,6 @@ All components share a `RateLimiter` instance so bursts of API calls automatical
 instead of being rejected. Pass a custom `http.Client` in `InitParams.client` to use
 retries, caching, interceptors, or `MockClient` in tests.
 
-## Development
-
-- Run the test suite: `dart test`
-- Format code: `dart format .`
-- Lints are configured via `analysis_options.yaml`
-
-Consider reading `CODE_QUALITY_ANALYSIS.md` for current architectural notes.
 
 ## Contributing
 
