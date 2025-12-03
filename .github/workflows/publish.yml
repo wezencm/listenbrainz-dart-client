@@ -22,18 +22,7 @@ jobs:
         run: dart pub publish --dry-run
 
   publish:
-    runs-on: ubuntu-latest
     needs: validate   # only runs if validation succeeds
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Dart
-        uses: dart-lang/setup-dart@v1
-        with:
-          sdk: stable
-
-      - name: Publish package
-        run: dart pub publish --force
-        env:
-          PUB_DEV_TOKEN: ${{ secrets.PUB_DEV_TOKEN }}
+    uses: dart-lang/setup-dart/.github/workflows/publish.yml@v1
+    permissions:
+      id-token: write # Required for authentication using OIDC
