@@ -8,12 +8,13 @@ import 'package:listenbrainz/utils/rate_limiter.dart';
 
 
 class ListenBrainz {
-  final RateLimiter _limiter = RateLimiter();
+  final RateLimiter _limiter;
   final InitParams params;
   final http.Client _client;
   
   ListenBrainz(this.params)
-    : _client = params.client ?? http.Client();
+    : _client = params.client ?? http.Client(),
+    _limiter = params.rateLimiter ?? RateLimiter();
 
   late final core = Core(params, _limiter, _client);
   late final playlists = PlaylistManager(params, _limiter, _client);
