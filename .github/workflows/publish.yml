@@ -1,0 +1,39 @@
+name: Validate & Publish to pub.dev
+
+on:
+  workflow_dispatch:   # manual trigger
+  push:
+    tags:
+      - 'v*'           # trigger when you push a version tag like v1.0.1
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - name: Dry-run publish (validation)
+        run: dart pub publish --dry-run
+
+  publish:
+    runs-on: ubuntu-latest
+    needs: validate   # only runs if validation succeeds
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+
+      - name: Publish package
+        run: dart pub publish --force
+        env:
+          PUB_DEV_TOKEN: ${{ secrets.PUB_DEV_TOKEN }}
