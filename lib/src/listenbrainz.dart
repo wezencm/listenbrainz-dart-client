@@ -1,10 +1,10 @@
 import 'package:http/http.dart' as http;
 
-import 'package:listenbrainz/src/components/auxiliar.dart';
-import 'package:listenbrainz/src/components/core.dart';
-import 'package:listenbrainz/src/components/playlists.dart';
-import 'package:listenbrainz/src/types/instance_init.dart';
-import 'package:listenbrainz/src/utils/rate_limiter.dart';
+import 'package:listenbrainz/components/auxiliar.dart';
+import 'package:listenbrainz/components/core.dart';
+import 'package:listenbrainz/components/playlists.dart';
+import 'package:listenbrainz/types/instance_init.dart';
+import 'package:listenbrainz/utils/rate_limiter.dart';
 
 
 class ListenBrainz {

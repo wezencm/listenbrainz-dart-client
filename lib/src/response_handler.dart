@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:listenbrainz/src/api_exception.dart';
+import 'package:listenbrainz/api_exception.dart';
 
 class ResponseHandler {
   static T handleResponse<T>(

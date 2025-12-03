@@ -18,9 +18,9 @@ import 'dart:io';
 
 import 'package:listenbrainz/src/constants/listenbrainz.dart';
 import 'package:listenbrainz/src/listenbrainz.dart';
-import 'package:listenbrainz/src/types/additional_info.dart';
-import 'package:listenbrainz/src/types/submission_listen.dart';
-import 'package:listenbrainz/src/types/types.dart';
+import 'package:listenbrainz/types/additional_info.dart';
+import 'package:listenbrainz/types/submission_listen.dart';
+import 'package:listenbrainz/types/types.dart';
 import 'package:test/test.dart';
 
 void main() {

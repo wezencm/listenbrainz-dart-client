@@ -1,14 +1,14 @@
 import 'dart:async';
 
 import 'package:http/http.dart' as http;
-import 'package:listenbrainz/src/api_exception.dart';
-import 'package:listenbrainz/src/utils/rate_limiter.dart';
+import 'package:listenbrainz/api_exception.dart';
+import 'package:listenbrainz/utils/rate_limiter.dart';
 import 'package:listenbrainz/src/response_handler.dart';
-import 'package:listenbrainz/src/types/instance_init.dart';
-import 'package:listenbrainz/src/types/response_listen.dart';
-import 'package:listenbrainz/src/types/submission_listen.dart';
+import 'package:listenbrainz/types/instance_init.dart';
+import 'package:listenbrainz/types/response_listen.dart';
+import 'package:listenbrainz/types/submission_listen.dart';
 import 'package:listenbrainz/src/constants/listenbrainz.dart';
-import 'package:listenbrainz/src/types/types.dart';
+import 'package:listenbrainz/types/types.dart';
 import 'package:listenbrainz/src/utils/request_helpers.dart';
 
 class Core {

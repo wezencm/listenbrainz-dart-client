@@ -1,5 +1,5 @@
 import 'package:http/http.dart' as http;
-import 'package:listenbrainz/src/utils/rate_limiter.dart';
+import 'package:listenbrainz/utils/rate_limiter.dart';
 
 typedef InitParams = ({
   /// The user token https://listenbrainz.org/settings/

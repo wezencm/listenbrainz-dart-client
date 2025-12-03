@@ -1,9 +1,9 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:listenbrainz/src/utils/rate_limiter.dart';
-import 'package:listenbrainz/src/types/submission_listen.dart';
-import 'package:listenbrainz/src/types/types.dart';
+import 'package:listenbrainz/utils/rate_limiter.dart';
+import 'package:listenbrainz/types/submission_listen.dart';
+import 'package:listenbrainz/types/types.dart';
 
 
 Future<http.Response> postToLb(

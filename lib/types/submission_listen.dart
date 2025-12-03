@@ -1,5 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:listenbrainz/src/types/additional_info.dart';
+import 'package:listenbrainz/types/additional_info.dart';
 
 part 'submission_listen.g.dart';
 

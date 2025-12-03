@@ -1,6 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:listenbrainz/src/types/additional_info.dart';
-import 'package:listenbrainz/src/types/types.dart';
+import 'package:listenbrainz/types/additional_info.dart';
+import 'package:listenbrainz/types/types.dart';
 
 part 'response_listen.g.dart';
 

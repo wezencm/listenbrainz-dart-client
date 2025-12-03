@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:listenbrainz/src/utils/rate_limiter.dart';
-import 'package:listenbrainz/src/types/instance_init.dart';
+import 'package:listenbrainz/utils/rate_limiter.dart';
+import 'package:listenbrainz/types/instance_init.dart';
 import 'package:listenbrainz/src/utils/jaro_winkler_distance.dart';
 
 
