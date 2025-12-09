@@ -35,8 +35,10 @@ AdditionalInfo _$AdditionalInfoFromJson(Map<String, dynamic> json) =>
       originUrl: json['origin_url'] as String?,
       durationMs: (json['duration_ms'] as num?)?.toInt(),
       duration: (json['duration'] as num?)?.toInt(),
-    )..recordingMsid = _$JsonConverterFromJson<String, UuidString>(
-        json['recording_msid'], const UuidConverter().fromJson);
+      durationPlayed: (json['duration_played'] as num?)?.toInt(),
+      recordingMsid: _$JsonConverterFromJson<String, UuidString>(
+          json['recording_msid'], const UuidConverter().fromJson),
+    );
 
 Map<String, dynamic> _$AdditionalInfoToJson(AdditionalInfo instance) {
   final val = <String, dynamic>{};
@@ -80,6 +82,7 @@ Map<String, dynamic> _$AdditionalInfoToJson(AdditionalInfo instance) {
   writeNotNull('origin_url', instance.originUrl);
   writeNotNull('duration_ms', instance.durationMs);
   writeNotNull('duration', instance.duration);
+  writeNotNull('duration_played', instance.durationPlayed);
   writeNotNull(
       'recording_msid',
       _$JsonConverterToJson<String, UuidString>(

@@ -74,6 +74,9 @@ class AdditionalInfo {
   /// The duration of the track in seconds.
   int? duration;
 
+  /// The duration in seconds that the user actually listened to the track.
+  int? durationPlayed;
+
   /// When ListenBrainz receives a [SubmissionListen] withou enough
   /// information to link the recording to a MBID, it links to a [MessyBrainz id](https://community.metabrainz.org/t/where-does-messybrainz-data-come-from/580232/2)
   /// This field should not be sent in a SubmissionListen.
@@ -99,6 +102,8 @@ class AdditionalInfo {
     this.originUrl,
     this.durationMs,
     this.duration,
+    this.durationPlayed,
+    this.recordingMsid,
   });
 
 
