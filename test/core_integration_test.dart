@@ -20,6 +20,7 @@ import 'package:listenbrainz/src/constants/listenbrainz.dart';
 import 'package:listenbrainz/src/listenbrainz.dart';
 import 'package:listenbrainz/types/additional_info.dart';
 import 'package:listenbrainz/types/submission_listen.dart';
+import 'package:listenbrainz/types/track_metadata.dart';
 import 'package:listenbrainz/types/types.dart';
 import 'package:test/test.dart';
 

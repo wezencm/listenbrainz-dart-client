@@ -9,6 +9,7 @@ export 'types/instance_init.dart';
 export 'types/playlists.dart';
 export 'types/response_listen.dart';
 export 'types/submission_listen.dart';
+export 'types/track_metadata.dart';
 export 'types/types.dart';
 
 export 'api_exception.dart';
