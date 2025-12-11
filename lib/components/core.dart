@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:http/http.dart' as http;
-import 'package:listenbrainz/api_exception.dart';
+import 'package:listenbrainz/exceptions/api_exception.dart';
 import 'package:listenbrainz/utils/rate_limiter.dart';
 import 'package:listenbrainz/src/response_handler.dart';
 import 'package:listenbrainz/types/instance_init.dart';

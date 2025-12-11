@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:http/testing.dart';
 import 'package:listenbrainz/components/core.dart';
-import 'package:listenbrainz/api_exception.dart';
+import 'package:listenbrainz/exceptions/api_exception.dart';
 import 'package:listenbrainz/src/constants/listenbrainz.dart';
 import 'package:listenbrainz/types/track_metadata.dart';
 import 'package:listenbrainz/utils/rate_limiter.dart';

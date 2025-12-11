@@ -12,4 +12,5 @@ export 'types/submission_listen.dart';
 export 'types/track_metadata.dart';
 export 'types/types.dart';
 
-export 'api_exception.dart';
+export 'exceptions/api_exception.dart';
+export 'exceptions/api_unauthorized.dart';
