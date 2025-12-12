@@ -15,6 +15,13 @@ TrackMetadata _$TrackMetadataFromJson(Map<String, dynamic> json) =>
       artistName: json['artist_name'] as String,
       trackName: json['track_name'] as String,
       releaseName: json['release_name'] as String?,
+      brainzPlayerMetadata: json['brainz_player_metadata'] == null
+          ? null
+          : BrainzPlayerMetadata.fromJson(
+              json['brainz_player_metadata'] as Map<String, dynamic>),
+      mbidMapping: json['mbid_mapping'] == null
+          ? null
+          : MbidMapping.fromJson(json['mbid_mapping'] as Map<String, dynamic>),
     );
 
 Map<String, dynamic> _$TrackMetadataToJson(TrackMetadata instance) {
@@ -31,6 +38,8 @@ Map<String, dynamic> _$TrackMetadataToJson(TrackMetadata instance) {
 
   writeNotNull('release_name', instance.releaseName);
   writeNotNull('additional_info', instance.additionalInfo);
+  writeNotNull('brainz_player_metadata', instance.brainzPlayerMetadata);
+  writeNotNull('mbid_mapping', instance.mbidMapping);
   return val;
 }
 
