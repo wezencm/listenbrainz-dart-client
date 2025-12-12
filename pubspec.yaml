@@ -1,6 +1,6 @@
 name: listenbrainz
 description: A dart client for ListenBrainz.
-version: 1.0.1
+version: 1.1.0
 repository: https://github.com/wezencm/listenbrainz-dart-client
 homepage: https://github.com/wezencm/listenbrainz-dart-client
 

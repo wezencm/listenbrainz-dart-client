@@ -21,7 +21,7 @@ tools, or server-side apps.
 |---|-----------------|
 | ✔️ | [Core](https://listenbrainz.readthedocs.io/en/latest/users/api/core.html)            |
 | ✔️ | [Playlists](https://listenbrainz.readthedocs.io/en/latest/users/api/playlist.html)       |
-| ✖️ | [Recordings](https://listenbrainz.readthedocs.io/en/latest/users/api/recordings.html)      |
+| ✔️ | [Recordings](https://listenbrainz.readthedocs.io/en/latest/users/api/recordings.html)      |
 | ✖️ | [Statistics](https://listenbrainz.readthedocs.io/en/latest/users/api/statistics.html)      |
 | ✖️ | [Popularity](https://listenbrainz.readthedocs.io/en/latest/users/api/popularity.html)      |
 | ✖️ | [Metadata](https://listenbrainz.readthedocs.io/en/latest/users/api/metadata.html)        |
