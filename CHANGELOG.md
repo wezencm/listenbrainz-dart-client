@@ -1,3 +1,7 @@
+## 1.1.1
+
+- Fixed a bug on Aux.matchSongMusicBrainz() always returning `null`.
+
 ## 1.1.0
 
 - Implements the Recordings endpoints.
