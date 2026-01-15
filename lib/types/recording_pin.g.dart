@@ -44,7 +44,7 @@ Map<String, dynamic> _$RecordingPinToJson(RecordingPin instance) {
   val['blurb_content'] = instance.blurbContent;
   val['pinned_until'] =
       const DateTimeMillisecondsConverter().toJson(instance.pinnedUntil);
-  writeNotNull('track_metadata', instance.trackMetadata);
+  writeNotNull('track_metadata', instance.trackMetadata?.toJson());
   writeNotNull(
       'created',
       _$JsonConverterToJson<int, DateTime>(
@@ -89,7 +89,8 @@ Map<String, dynamic> _$FetchedPinsToJson(FetchedPins instance) {
   }
 
   writeNotNull('total_count', instance.totalCount);
-  val['pinned_recordings'] = instance.pinnedRecordings;
+  val['pinned_recordings'] =
+      instance.pinnedRecordings.map((e) => e.toJson()).toList();
   val['user_name'] = instance.userName;
   return val;
 }

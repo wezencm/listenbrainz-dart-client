@@ -23,6 +23,6 @@ Map<String, dynamic> _$SubmissionListenToJson(SubmissionListen instance) {
   }
 
   writeNotNull('listened_at', instance.listenedAt);
-  val['track_metadata'] = instance.trackMetadata;
+  val['track_metadata'] = instance.trackMetadata.toJson();
   return val;
 }
