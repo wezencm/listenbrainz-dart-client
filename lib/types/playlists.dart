@@ -164,7 +164,8 @@ class MusicBrainzTrackExtension {
       _$MusicBrainzTrackExtensionFromJson(json);
   Map<String, dynamic> toJson() => _$MusicBrainzTrackExtensionToJson(this);
 
-  static UuidString _releaseIdentifierIdFromJson(String uuid) {
+  static UuidString? _releaseIdentifierIdFromJson(String? uuid) {
+    if (uuid == null) return null;
     return UuidString(uuid.replaceFirst('https://musicbrainz.org/release/', ''));
   }
 

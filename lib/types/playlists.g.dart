@@ -128,7 +128,7 @@ MusicBrainzTrackExtension _$MusicBrainzTrackExtensionFromJson(
           ? null
           : DateTime.parse(json['added_at'] as String),
       releaseIdentifier: MusicBrainzTrackExtension._releaseIdentifierIdFromJson(
-          json['release_identifier'] as String),
+          json['release_identifier'] as String?),
       artistIdentifiers: MusicBrainzTrackExtension._artistIdentifierIdFromJson(
           json['artist_identifiers'] as List),
       additionalMetadata: json['additional_metadata'] as Map<String, dynamic>?,
