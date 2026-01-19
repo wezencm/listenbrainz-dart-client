@@ -82,6 +82,12 @@ class PlaylistTrack {
   )
   final List<UuidString>? identifier;
   
+  @JsonKey(
+    fromJson: _durationFromJson,
+    toJson: _durationToJson,
+  )
+  final Duration? duration;
+
   final String? creator;
   final String? album;
   final TrackExtension? extension;
@@ -89,6 +95,7 @@ class PlaylistTrack {
   PlaylistTrack({
     this.title, 
     this.identifier, 
+    this.duration,
     this.creator, 
     this.album, 
     this.extension
@@ -111,6 +118,12 @@ class PlaylistTrack {
         .toList();
     //return 'https://musicbrainz.org/artist/${uuid.toString()}';
   }
+
+  static Duration? _durationFromJson(int? milliseconds) =>
+      milliseconds == null ? null : Duration(milliseconds: milliseconds);
+
+  static int? _durationToJson(Duration? duration) =>
+      duration?.inMilliseconds;
 /*   static UuidString _idFromJson(String uuid) {
     return UuidString(uuid.replaceFirst('https://musicbrainz.org/recording/', ''));
   }
@@ -169,7 +182,8 @@ class MusicBrainzTrackExtension {
     return UuidString(uuid.replaceFirst('https://musicbrainz.org/release/', ''));
   }
 
-  static String _releaseIdentifierIdToJson(UuidString? uuid) {
+  static String? _releaseIdentifierIdToJson(UuidString? uuid) {
+    if (uuid == null) return null;
     return 'https://musicbrainz.org/release/${uuid.toString()}';
   }
 

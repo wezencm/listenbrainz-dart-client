@@ -72,6 +72,8 @@ PlaylistTrack _$PlaylistTrackFromJson(Map<String, dynamic> json) =>
     PlaylistTrack(
       title: json['title'] as String?,
       identifier: PlaylistTrack._idFromJson(json['identifier'] as List),
+      duration:
+          PlaylistTrack._durationFromJson((json['duration'] as num?)?.toInt()),
       creator: json['creator'] as String?,
       album: json['album'] as String?,
       extension: json['extension'] == null
@@ -90,6 +92,7 @@ Map<String, dynamic> _$PlaylistTrackToJson(PlaylistTrack instance) {
 
   writeNotNull('title', instance.title);
   val['identifier'] = PlaylistTrack._idToJson(instance.identifier);
+  writeNotNull('duration', PlaylistTrack._durationToJson(instance.duration));
   writeNotNull('creator', instance.creator);
   writeNotNull('album', instance.album);
   writeNotNull('extension', instance.extension?.toJson());
@@ -147,9 +150,10 @@ Map<String, dynamic> _$MusicBrainzTrackExtensionToJson(
   writeNotNull('added_by', instance.addedBy);
   writeNotNull('added_at', instance.addedAt?.toIso8601String());
   writeNotNull('additional_metadata', instance.additionalMetadata);
-  val['release_identifier'] =
+  writeNotNull(
+      'release_identifier',
       MusicBrainzTrackExtension._releaseIdentifierIdToJson(
-          instance.releaseIdentifier);
+          instance.releaseIdentifier));
   val['artist_identifiers'] =
       MusicBrainzTrackExtension._artistIdentifierIdToJson(
           instance.artistIdentifiers);
