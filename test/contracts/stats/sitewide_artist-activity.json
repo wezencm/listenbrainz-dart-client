@@ -1,0 +1,715 @@
+{
+  "payload":{
+    "artist_activity":[
+      {
+        "albums":[
+          {
+            "listen_count":908394,
+            "name":"OK Computer",
+            "release_group_mbid":"b1392450-e666-3926-a536-22c65f834433"
+          },
+          {
+            "listen_count":704255,
+            "name":"In Rainbows",
+            "release_group_mbid":"6e335887-60ba-38f0-95af-fae7774336bf"
+          },
+          {
+            "listen_count":574133,
+            "name":"The Bends",
+            "release_group_mbid":"b8048f24-c026-3398-b23a-b5e50716cbc7"
+          },
+          {
+            "listen_count":551680,
+            "name":"Kid A",
+            "release_group_mbid":"e75c0549-ad55-39e3-8025-c72c5d4a3c5d"
+          },
+          {
+            "listen_count":336884,
+            "name":"Amnesiac",
+            "release_group_mbid":"bca9280e-28b4-327f-8fe0-fd918579e486"
+          },
+          {
+            "listen_count":336052,
+            "name":"Pablo Honey",
+            "release_group_mbid":"cd76f76b-ff15-3784-a71d-4da3078a6851"
+          },
+          {
+            "listen_count":274570,
+            "name":"A Moon Shaped Pool",
+            "release_group_mbid":"bbce0087-d386-4246-a51d-dbcdfdbe8fb2"
+          },
+          {
+            "listen_count":250853,
+            "name":"Hail to the Thief",
+            "release_group_mbid":"5c14fd50-a2f1-3672-9537-b0dad91bea2f"
+          },
+          {
+            "listen_count":172092,
+            "name":"The King of Limbs",
+            "release_group_mbid":"899b6d09-807e-4c18-a6d4-3642e00d6a3d"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":4108913,
+        "name":"Radiohead"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":558800,
+            "name":"Abbey Road",
+            "release_group_mbid":"9162580e-5df4-32de-80cc-f45a8d8a9b1d"
+          },
+          {
+            "listen_count":507197,
+            "name":"The Beatles",
+            "release_group_mbid":"055be730-dcad-31bf-b550-45ba9c202aa3"
+          },
+          {
+            "listen_count":362335,
+            "name":"Revolver",
+            "release_group_mbid":"72d15666-99a7-321e-b1f3-a3f8c09dff9f"
+          },
+          {
+            "listen_count":312434,
+            "name":"Sgt. Pepper\u2019s Lonely Hearts Club Band",
+            "release_group_mbid":"9f7a4c28-8fa2-3113-929c-c47a9f7982c3"
+          },
+          {
+            "listen_count":259871,
+            "name":"Let It Be",
+            "release_group_mbid":"bff544a7-56e0-3ed6-9e0f-3b676cca9111"
+          },
+          {
+            "listen_count":249206,
+            "name":"Rubber Soul",
+            "release_group_mbid":"dca03435-8adb-30a5-ba82-5a162267ff38"
+          },
+          {
+            "listen_count":214876,
+            "name":"Help!",
+            "release_group_mbid":"0d44e1cb-c6e0-3453-8b68-4d2082f05421"
+          },
+          {
+            "listen_count":154004,
+            "name":"Please Please Me",
+            "release_group_mbid":"de208292-8db5-3aed-a14a-b37a84d8c521"
+          },
+          {
+            "listen_count":138581,
+            "name":"Magical Mystery Tour - The Alternate Album Collection",
+            "release_group_mbid":"6762ecb7-45bc-4008-bab0-df2185d7e3b8"
+          },
+          {
+            "listen_count":121281,
+            "name":"With The Beatles",
+            "release_group_mbid":"a63dc65f-09f2-359b-a10e-648f00ecd96c"
+          },
+          {
+            "listen_count":114553,
+            "name":"Beatles for Sale",
+            "release_group_mbid":"f50a3b6f-27f0-3832-bd3f-3568dc557d95"
+          },
+          {
+            "listen_count":113112,
+            "name":"The Beatles",
+            "release_group_mbid":"71aa4dac-b705-4b6e-be77-ecfa8c238ad0"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":3106250,
+        "name":"The Beatles"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":371572,
+            "name":"1989",
+            "release_group_mbid":"4d9ec1c2-58ec-48a4-aa0a-916718adead0"
+          },
+          {
+            "listen_count":277646,
+            "name":"reputation",
+            "release_group_mbid":"f060c8fd-bec9-426e-800e-8efc040a71e6"
+          },
+          {
+            "listen_count":276800,
+            "name":"folklore",
+            "release_group_mbid":"f1d08326-c23b-4b43-be3b-20b33ab10bf6"
+          },
+          {
+            "listen_count":274106,
+            "name":"Lover",
+            "release_group_mbid":"30e9785b-7b50-4d29-b3d1-96fb55e3397f"
+          },
+          {
+            "listen_count":268244,
+            "name":"Midnights",
+            "release_group_mbid":"0dcc84fb-c592-46e9-ba92-a52bb44dd553"
+          },
+          {
+            "listen_count":203515,
+            "name":"Red",
+            "release_group_mbid":"a73cecde-0923-40ad-aad1-e8c24ba6c3d2"
+          },
+          {
+            "listen_count":189562,
+            "name":"evermore",
+            "release_group_mbid":"e86d6219-f5a2-4edd-bf2b-3f9eab190ae0"
+          },
+          {
+            "listen_count":170569,
+            "name":"Red (Taylor\u2019s Version)",
+            "release_group_mbid":"67727253-f1c0-4243-9270-f9f1401c3b8c"
+          },
+          {
+            "listen_count":149486,
+            "name":"THE TORTURED POETS DEPARTMENT",
+            "release_group_mbid":"71c3eed6-466c-4aef-ad12-65a36d19467a"
+          },
+          {
+            "listen_count":144318,
+            "name":"1989 (Taylor\u2019s Version)",
+            "release_group_mbid":"1c4770b3-b7a3-4d44-a7a9-8e2dbb74b85a"
+          },
+          {
+            "listen_count":138746,
+            "name":"Speak Now",
+            "release_group_mbid":"ba1259eb-d41e-41c5-a70c-0e6fa73e6708"
+          },
+          {
+            "listen_count":122182,
+            "name":"Fearless (Taylor\u2019s version)",
+            "release_group_mbid":"d2e4838d-90e1-471c-bda0-fd816dabb2d4"
+          },
+          {
+            "listen_count":120100,
+            "name":"Fearless",
+            "release_group_mbid":"63eba062-847c-3b73-8b0f-6baf27bba6fa"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2706846,
+        "name":"Taylor Swift"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":373953,
+            "name":"The Life of Pablo",
+            "release_group_mbid":"8c18657a-6338-490d-a952-897663596b96"
+          },
+          {
+            "listen_count":304616,
+            "name":"My Beautiful Dark Twisted Fantasy",
+            "release_group_mbid":"5d6e21e1-deb5-428e-bb42-c2a567f3619b"
+          },
+          {
+            "listen_count":300967,
+            "name":"Graduation",
+            "release_group_mbid":"d44c50ad-61fd-3fce-95fc-27024d7f1d30"
+          },
+          {
+            "listen_count":257556,
+            "name":"Yeezus",
+            "release_group_mbid":"5d4d0f2d-9be7-4922-bc9a-cbd2880b12c2"
+          },
+          {
+            "listen_count":256369,
+            "name":"The College Dropout",
+            "release_group_mbid":"8a01217e-6947-3927-a39b-6691104694f1"
+          },
+          {
+            "listen_count":225106,
+            "name":"Late Registration",
+            "release_group_mbid":"c563d738-3841-31ce-b29d-ec6b40fd1e7b"
+          },
+          {
+            "listen_count":209526,
+            "name":"Donda",
+            "release_group_mbid":"7f4792fe-b563-4554-849a-95a89be71f84"
+          },
+          {
+            "listen_count":183948,
+            "name":"808s & Heartbreak",
+            "release_group_mbid":"1c1b50ec-828b-3d7c-9b1b-54cb1fe97d55"
+          },
+          {
+            "listen_count":145736,
+            "name":"ye",
+            "release_group_mbid":"6448381d-9d98-4f84-b99d-733b6acde906"
+          },
+          {
+            "listen_count":104228,
+            "name":"Jesus Is King",
+            "release_group_mbid":"ee26718c-2633-4278-8718-f3a45a95f20e"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2362005,
+        "name":"Kanye West"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":637646,
+            "name":"Hybrid Theory",
+            "release_group_mbid":"b5b4bb4b-8ba5-3acf-88cb-4cae2699d8da"
+          },
+          {
+            "listen_count":614985,
+            "name":"Meteora",
+            "release_group_mbid":"09474d62-17dd-3a4f-98fb-04c65f38a479"
+          },
+          {
+            "listen_count":363795,
+            "name":"Minutes to Midnight",
+            "release_group_mbid":"a4201f5c-f0d7-319c-ba9d-ba0bac38da7a"
+          },
+          {
+            "listen_count":203202,
+            "name":"A Thousand Suns",
+            "release_group_mbid":"65404106-2976-4f98-a0e2-4e76923ea06d"
+          },
+          {
+            "listen_count":196866,
+            "name":"Living Things",
+            "release_group_mbid":"af682b63-021e-4806-afac-9aa4380fc6bd"
+          },
+          {
+            "listen_count":183271,
+            "name":"From Zero",
+            "release_group_mbid":"a3159fb4-2ad3-4678-ba51-36fbc8b8430d"
+          },
+          {
+            "listen_count":116973,
+            "name":"One More Light",
+            "release_group_mbid":"b976c959-d13e-487c-85d7-cab70ed7c842"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2316738,
+        "name":"Linkin Park"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":668782,
+            "name":"The Wall",
+            "release_group_mbid":"f2026101-945b-3d05-9ef4-aa718fc3feef"
+          },
+          {
+            "listen_count":641403,
+            "name":"The Dark Side of the Moon",
+            "release_group_mbid":"f5093c06-23e3-404f-aeaa-40f72885ee3a"
+          },
+          {
+            "listen_count":295376,
+            "name":"Wish You Were Here",
+            "release_group_mbid":"1a272023-10d3-38ee-bab3-317b55fcc21d"
+          },
+          {
+            "listen_count":195282,
+            "name":"The Division Bell",
+            "release_group_mbid":"90878b63-f639-3c8b-aefb-190bdf3d1790"
+          },
+          {
+            "listen_count":136682,
+            "name":"A Momentary Lapse of Reason",
+            "release_group_mbid":"4940b8aa-898b-3e60-9992-94e073bab6f6"
+          },
+          {
+            "listen_count":135762,
+            "name":"Meddle",
+            "release_group_mbid":"4e98c9b4-92f6-3049-b9da-a1088b623672"
+          },
+          {
+            "listen_count":118949,
+            "name":"The Piper at the Gates of Dawn",
+            "release_group_mbid":"6792b6d1-4e65-3c3c-9d20-d08aa1dcfc60"
+          },
+          {
+            "listen_count":105572,
+            "name":"Animals",
+            "release_group_mbid":"20c77fb4-1c9f-33c8-9d7e-c4977f11e847"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2297808,
+        "name":"Pink Floyd"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":648402,
+            "name":"Discovery",
+            "release_group_mbid":"48117b90-a16e-34ca-a514-19c702df1158"
+          },
+          {
+            "listen_count":618751,
+            "name":"Random Access Memories",
+            "release_group_mbid":"aa997ea0-2936-40bd-884d-3af8a0e064dc"
+          },
+          {
+            "listen_count":391946,
+            "name":"TRON: Legacy",
+            "release_group_mbid":"b585e56e-69cb-4f53-9597-320af5e5f541"
+          },
+          {
+            "listen_count":266064,
+            "name":"Homework",
+            "release_group_mbid":"00054665-89fa-33d5-a8f0-1728ea8c32c3"
+          },
+          {
+            "listen_count":168177,
+            "name":"Human After All",
+            "release_group_mbid":"f9e8042a-674e-3f01-80ec-7f0ab1c537df"
+          },
+          {
+            "listen_count":154541,
+            "name":"Alive 2007",
+            "release_group_mbid":"4bac3d70-deea-3d80-85c4-8be9f90558e6"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2247881,
+        "name":"Daft Punk"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":477351,
+            "name":"Metallica",
+            "release_group_mbid":"e8f70201-8899-3f0c-9e07-5d6495bc8046"
+          },
+          {
+            "listen_count":281990,
+            "name":"Ride the Lightning",
+            "release_group_mbid":"0da580f2-6768-498f-af9d-2becaddf15e0"
+          },
+          {
+            "listen_count":277805,
+            "name":"Master of Puppets",
+            "release_group_mbid":"3d00fb45-f8ab-3436-a8e1-b4bfc4d66913"
+          },
+          {
+            "listen_count":254882,
+            "name":"\u2026And Justice for All",
+            "release_group_mbid":"67553e23-8dad-3792-b6f2-8fedd5650ff3"
+          },
+          {
+            "listen_count":177659,
+            "name":"Kill \u2019Em All",
+            "release_group_mbid":"f44f4f73-a714-31a1-a4b8-bfcaaf311f50"
+          },
+          {
+            "listen_count":163871,
+            "name":"Load",
+            "release_group_mbid":"e389b7df-862d-3d91-a612-acca150f6e71"
+          },
+          {
+            "listen_count":150535,
+            "name":"Reload",
+            "release_group_mbid":"8fd32554-02a7-3788-a761-7012e0e75e55"
+          },
+          {
+            "listen_count":140927,
+            "name":"Death Magnetic",
+            "release_group_mbid":"5c8a25bf-4764-3cce-8f37-30af79d3b101"
+          },
+          {
+            "listen_count":104054,
+            "name":"Hardwired\u2026 to Self\u2010Destruct",
+            "release_group_mbid":"55d8ab42-990b-4c94-93c8-9ca7927b5fc0"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2029074,
+        "name":"Metallica"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":466045,
+            "name":"Black Holes and Revelations",
+            "release_group_mbid":"af2e8e23-e9c3-4e67-8ad8-66387c5898fd"
+          },
+          {
+            "listen_count":362574,
+            "name":"Absolution",
+            "release_group_mbid":"6f151223-f3a3-3e57-810f-598f7897006c"
+          },
+          {
+            "listen_count":297766,
+            "name":"Origin of Symmetry",
+            "release_group_mbid":"ef03fe86-b54c-3667-8768-029833e7e1cd"
+          },
+          {
+            "listen_count":265019,
+            "name":"The Resistance",
+            "release_group_mbid":"8411a4db-e104-4e45-995f-24b2f1849437"
+          },
+          {
+            "listen_count":191730,
+            "name":"The 2nd Law",
+            "release_group_mbid":"422cd8ac-8599-4356-b874-4da79a06abac"
+          },
+          {
+            "listen_count":188609,
+            "name":"Showbiz",
+            "release_group_mbid":"a842d860-a023-3a71-ad2e-a3a94cffabd7"
+          },
+          {
+            "listen_count":118393,
+            "name":"Drones",
+            "release_group_mbid":"3133d4d5-5cfb-4f53-87f5-f3a97c8f310d"
+          },
+          {
+            "listen_count":111222,
+            "name":"Simulation Theory",
+            "release_group_mbid":"8d4198ab-66a7-4292-8125-ac6fe8eb1cab"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":2001358,
+        "name":"Muse"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":416955,
+            "name":"To Pimp a Butterfly",
+            "release_group_mbid":"d9103c72-3807-4378-9ce7-b6f3e8fdd547"
+          },
+          {
+            "listen_count":414853,
+            "name":"good kid, m.A.A.d city",
+            "release_group_mbid":"499c19c8-0dab-4824-884b-6191d145e95b"
+          },
+          {
+            "listen_count":410339,
+            "name":"DAMN.",
+            "release_group_mbid":"b88655ba-7469-48b8-a296-b9011ab73ef3"
+          },
+          {
+            "listen_count":247566,
+            "name":"Mr. Morale & the Big Steppers",
+            "release_group_mbid":"6bd70eee-bd46-4738-851a-f50c19d8d6db"
+          },
+          {
+            "listen_count":184732,
+            "name":"GNX",
+            "release_group_mbid":"32cb822c-a14e-49ce-a169-f209c5f31e0f"
+          },
+          {
+            "listen_count":136082,
+            "name":"Black Panther: The Album (Music From and Inspired By)",
+            "release_group_mbid":"4e317e28-e6b2-46d7-81f7-306e349b3dd4"
+          },
+          {
+            "listen_count":129588,
+            "name":"Section.80",
+            "release_group_mbid":"ceccd668-a928-4041-a3c3-99a5ce880de9"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":1940115,
+        "name":"Kendrick Lamar"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":631864,
+            "name":"Toxicity",
+            "release_group_mbid":"f50fbcb4-bfcd-3784-b4c9-44f4793e66b2"
+          },
+          {
+            "listen_count":342469,
+            "name":"Mezmerize",
+            "release_group_mbid":"8d18c070-adea-353f-a089-cbd2543342dd"
+          },
+          {
+            "listen_count":294881,
+            "name":"Hypnotize",
+            "release_group_mbid":"72035143-d6ec-308b-8ee5-070b8703902a"
+          },
+          {
+            "listen_count":265234,
+            "name":"Steal This Album!",
+            "release_group_mbid":"3351730c-7853-38f3-8d56-1bf627de4523"
+          },
+          {
+            "listen_count":261893,
+            "name":"System of a Down",
+            "release_group_mbid":"97f37409-b91a-3495-8e70-56fd9f7658c2"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":1796341,
+        "name":"System of a Down"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":346697,
+            "name":"A Rush of Blood to the Head",
+            "release_group_mbid":"120c786d-a3b2-3c19-b4ff-2b7b3b4435bf"
+          },
+          {
+            "listen_count":345652,
+            "name":"Viva la Vida or Death and All His Friends",
+            "release_group_mbid":"a1084754-8bb5-3ebc-bbd2-6a27d48e798a"
+          },
+          {
+            "listen_count":317078,
+            "name":"Parachutes",
+            "release_group_mbid":"1dc4c347-a1db-32aa-b14f-bc9cc507b843"
+          },
+          {
+            "listen_count":280265,
+            "name":"X&Y",
+            "release_group_mbid":"c50b180a-12c9-3153-8ba5-eac6a6537d6f"
+          },
+          {
+            "listen_count":200863,
+            "name":"Mylo Xyloto",
+            "release_group_mbid":"61b7b6cd-86a6-4728-9478-b58c93bca8fd"
+          },
+          {
+            "listen_count":147592,
+            "name":"A Head Full of Dreams",
+            "release_group_mbid":"27da3ef8-f3b0-47bf-898d-9bdf4af7fc04"
+          },
+          {
+            "listen_count":145480,
+            "name":"Ghost Stories",
+            "release_group_mbid":"9c5aa9d2-068b-4626-b352-ae6f4f4e0b15"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":1783627,
+        "name":"Coldplay"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":614954,
+            "name":"Demon Days",
+            "release_group_mbid":"f959a46a-a136-3134-9412-6572b23fad95"
+          },
+          {
+            "listen_count":384697,
+            "name":"Plastic Beach",
+            "release_group_mbid":"5a676824-18cd-4f7f-89f0-df21623e2042"
+          },
+          {
+            "listen_count":361428,
+            "name":"Gorillaz",
+            "release_group_mbid":"b0405d2a-5720-340a-bb56-4e135d031cc2"
+          },
+          {
+            "listen_count":188418,
+            "name":"Humanz",
+            "release_group_mbid":"066f840f-e357-436f-bb0a-47ad7cfcd84a"
+          },
+          {
+            "listen_count":103456,
+            "name":"The Now Now",
+            "release_group_mbid":"593abbcc-0803-47ae-b0fc-e1f5666e9bbc"
+          },
+          {
+            "listen_count":101332,
+            "name":"Cracker Island",
+            "release_group_mbid":"160bc106-a0d1-456e-b704-6f91b05dfa04"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":1754285,
+        "name":"Gorillaz"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":382839,
+            "name":"The Downward Spiral",
+            "release_group_mbid":"7c4cab8d-dead-3870-b501-93c90fd0a580"
+          },
+          {
+            "listen_count":311188,
+            "name":"The Fragile",
+            "release_group_mbid":"fc4d7589-a6b9-35ca-a6b6-8c8e70c3baaa"
+          },
+          {
+            "listen_count":241399,
+            "name":"With Teeth",
+            "release_group_mbid":"10224fb3-a861-3247-9eab-81b7b0fbb0d4"
+          },
+          {
+            "listen_count":197760,
+            "name":"Pretty Hate Machine",
+            "release_group_mbid":"fcb872a2-7ef9-3ed0-bd4a-7c55c78179b6"
+          },
+          {
+            "listen_count":185789,
+            "name":"Year Zero",
+            "release_group_mbid":"3bd76d40-7f0e-36b7-9348-91a33afee20e"
+          },
+          {
+            "listen_count":173883,
+            "name":"Ghosts I\u2013IV",
+            "release_group_mbid":"550bf4b9-92ca-30ba-9ea2-8b45f9d081f1"
+          },
+          {
+            "listen_count":115649,
+            "name":"The Slip",
+            "release_group_mbid":"5990b23f-6412-3eaf-989c-a4831f4f95f7"
+          },
+          {
+            "listen_count":112247,
+            "name":"Hesitation Marks",
+            "release_group_mbid":"5abc64d9-2699-4f26-82cb-87ed127f42eb"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":1720754,
+        "name":"Nine Inch Nails"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":516536,
+            "name":"AM",
+            "release_group_mbid":"a348ba2f-f8b3-4686-b928-e63d8d94d543"
+          },
+          {
+            "listen_count":414341,
+            "name":"Whatever People Say I Am, That\u2019s What I\u2019m Not",
+            "release_group_mbid":"6c9c4985-3628-3070-b956-b538f30c9bea"
+          },
+          {
+            "listen_count":395986,
+            "name":"Favourite Worst Nightmare",
+            "release_group_mbid":"f113fa38-7908-3ec9-8145-d2455e78a8b2"
+          },
+          {
+            "listen_count":170335,
+            "name":"Humbug",
+            "release_group_mbid":"23b7e9e9-8820-4a49-b44f-a7a60e0a7e81"
+          },
+          {
+            "listen_count":136732,
+            "name":"Suck It and See",
+            "release_group_mbid":"ffdc0fd3-e726-4e98-af19-d3274ede2311"
+          }
+        ],
+        "artist_mbid":null,
+        "listen_count":1633930,
+        "name":"Arctic Monkeys"
+      }
+    ],
+    "from_ts":1009843200,
+    "last_updated":1768720550,
+    "range":"all_time",
+    "to_ts":1768694519
+  }
+}

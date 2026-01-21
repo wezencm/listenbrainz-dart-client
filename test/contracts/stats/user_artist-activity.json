@@ -1,0 +1,586 @@
+{
+  "payload":{
+    "artist_activity":[
+      {
+        "albums":[
+          {
+            "listen_count":1524,
+            "name":"The Phantom Agony",
+            "release_group_mbid":"c3826e0f-ce3e-347e-9d15-5ec0efc0a2e3"
+          },
+          {
+            "listen_count":1158,
+            "name":"Design Your Universe",
+            "release_group_mbid":"e383f187-c702-4362-b56a-dad7082e5347"
+          },
+          {
+            "listen_count":920,
+            "name":"Consign to Oblivion",
+            "release_group_mbid":"c0dcb42e-46d5-3600-b022-fb9c4b825575"
+          },
+          {
+            "listen_count":918,
+            "name":"The Divine Conspiracy",
+            "release_group_mbid":"edf1d39e-10db-3e61-a48b-60892b06c7e9"
+          },
+          {
+            "listen_count":653,
+            "name":"The Holographic Principle",
+            "release_group_mbid":"9bbc36a7-1d28-43eb-ab56-c2a9988b9de4"
+          },
+          {
+            "listen_count":388,
+            "name":"The Quantum Enigma",
+            "release_group_mbid":"2fdb33fc-921d-4408-b0f0-da2a0f2f9952"
+          },
+          {
+            "listen_count":207,
+            "name":"The Solace System",
+            "release_group_mbid":"d0b55b46-e63c-4c9f-a271-6d631b15e2f8"
+          },
+          {
+            "listen_count":105,
+            "name":"Aspiral",
+            "release_group_mbid":"b465e11f-6688-4e1d-b09a-e088fd98c4eb"
+          },
+          {
+            "listen_count":85,
+            "name":"The Classical Conspiracy: Live in Miskolc, Hungary",
+            "release_group_mbid":"fb42b52e-1875-3ee4-a9d0-b0468705e68b"
+          },
+          {
+            "listen_count":80,
+            "name":"Requiem for the Indifferent",
+            "release_group_mbid":"6bbb097b-3c50-456b-956c-1e511a69527a"
+          },
+          {
+            "listen_count":64,
+            "name":"\u03a9mega",
+            "release_group_mbid":"4839916e-0219-48c2-9b37-ca5ea8f6aa56"
+          },
+          {
+            "listen_count":52,
+            "name":"Retrospect",
+            "release_group_mbid":"9d62f8ff-23a5-4510-9473-8265da194b57"
+          }
+        ],
+        "artist_mbid":"21985b14-1b0d-44fe-b357-310b29bba510",
+        "artist_name":"Epica",
+        "listen_count":6154,
+        "name":"Epica"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":588,
+            "name":"Beloved Antichrist",
+            "release_group_mbid":"aeb82751-41c4-44e0-be26-ac45905e1c1c"
+          },
+          {
+            "listen_count":498,
+            "name":"Lemuria",
+            "release_group_mbid":"866ef9a9-a56e-323c-8ec4-8ba74989353d"
+          },
+          {
+            "listen_count":486,
+            "name":"Sitra Ahra",
+            "release_group_mbid":"d343a6d6-446b-4d5c-8d00-4d91fce4bd62"
+          },
+          {
+            "listen_count":410,
+            "name":"Theli",
+            "release_group_mbid":"0bab1be3-6676-3262-b4e9-d8e53fefc501"
+          },
+          {
+            "listen_count":400,
+            "name":"Vovin",
+            "release_group_mbid":"10166360-f567-33d6-ae06-bde0e5310f7d"
+          },
+          {
+            "listen_count":326,
+            "name":"Les Fleurs du mal",
+            "release_group_mbid":"d4d435ce-c445-4ed9-b68b-234e2335203f"
+          },
+          {
+            "listen_count":316,
+            "name":"Secret of the Runes",
+            "release_group_mbid":"4750418e-6f2a-4d7a-b2f8-bae3cd02917f"
+          },
+          {
+            "listen_count":248,
+            "name":"Gothic Kabbalah",
+            "release_group_mbid":"d5504b2f-1986-3176-b300-fff592b20e06"
+          },
+          {
+            "listen_count":169,
+            "name":"Sirius B",
+            "release_group_mbid":"e07e6eaa-a820-3d28-8544-f78a6f2df764"
+          },
+          {
+            "listen_count":136,
+            "name":"Leviathan",
+            "release_group_mbid":"c13e4375-46ce-4386-974d-229fe4b504ce"
+          },
+          {
+            "listen_count":119,
+            "name":"Lepaca Kliffoth",
+            "release_group_mbid":"6ed99389-fbae-3e2d-b691-c5aa4aa3ce74"
+          },
+          {
+            "listen_count":102,
+            "name":"Live in Atlanta 2011",
+            "release_group_mbid":"4b61678a-f5c8-404e-9631-29acd57e9d3b"
+          },
+          {
+            "listen_count":98,
+            "name":"Blood of the Dragon",
+            "release_group_mbid":"752df089-7b9a-4d25-a677-39bf347f0c18"
+          },
+          {
+            "listen_count":88,
+            "name":"Adulruna Rediviva and Beyond",
+            "release_group_mbid":"b1a1651f-975b-4b7a-90a7-a17b0515fbd8"
+          },
+          {
+            "listen_count":74,
+            "name":"Crowning of Atlantis",
+            "release_group_mbid":"92e8729e-cf5f-339d-9bc3-39e2ec561243"
+          },
+          {
+            "listen_count":56,
+            "name":"Leviathan II",
+            "release_group_mbid":"aafc510d-1cf4-427a-a65a-f6c5a3b5b608"
+          }
+        ],
+        "artist_mbid":"c6b0db5a-d750-4ed8-9caa-ddcfb75dcb0a",
+        "artist_name":"Therion",
+        "listen_count":4114,
+        "name":"Therion"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":1217,
+            "name":"Epica",
+            "release_group_mbid":"052f831f-319d-3b64-8c85-5c570223e928"
+          },
+          {
+            "listen_count":215,
+            "name":"The Black Halo",
+            "release_group_mbid":"30be80ea-c75d-3dc0-8e0e-4fad471815ca"
+          },
+          {
+            "listen_count":213,
+            "name":"Haven",
+            "release_group_mbid":"a172c1d6-e186-4ef7-9ceb-948760a5c42b"
+          },
+          {
+            "listen_count":180,
+            "name":"Silverthorn",
+            "release_group_mbid":"8dde4fe9-4478-4452-a249-4cfbc4385fb7"
+          },
+          {
+            "listen_count":165,
+            "name":"Karma",
+            "release_group_mbid":"942627e5-3ef2-36ce-9d68-0697dcd6291b"
+          },
+          {
+            "listen_count":135,
+            "name":"Poetry for the Poisoned",
+            "release_group_mbid":"583138be-ee24-4c7d-a397-99b37c305e9c"
+          },
+          {
+            "listen_count":111,
+            "name":"SPV Records Kamelot & Rhapsody",
+            "release_group_mbid":"9152b5e7-445f-4c57-be5c-2bba6f8afce2"
+          }
+        ],
+        "artist_mbid":"2449300a-6ca7-45da-8102-22789d256475",
+        "artist_name":"Kamelot",
+        "listen_count":2236,
+        "name":"Kamelot"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":645,
+            "name":"Griefshire",
+            "release_group_mbid":"11f28b1f-96d0-3860-8af2-19366d5bf518"
+          },
+          {
+            "listen_count":392,
+            "name":"Dark Clouds in a Perfect Sky",
+            "release_group_mbid":"fd2f50c5-f63c-399d-b0d8-1d30a6e203d4"
+          },
+          {
+            "listen_count":228,
+            "name":"Catharsis",
+            "release_group_mbid":"cb1c6f36-e634-4120-b4cb-731b0f99ca95"
+          },
+          {
+            "listen_count":196,
+            "name":"God\u2019s Silence, Devil\u2019s Temptation",
+            "release_group_mbid":"f058970a-9e43-34ad-800d-f1141ad6f285"
+          },
+          {
+            "listen_count":71,
+            "name":"Show Me the Way",
+            "release_group_mbid":"c5e3ad17-30a1-3e0a-a405-83d3419c1528"
+          }
+        ],
+        "artist_mbid":"eaaee2c2-0851-43a2-84c8-0198135bc3a8",
+        "artist_name":"Elis",
+        "listen_count":1532,
+        "name":"Elis"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":1359,
+            "name":"Twilight",
+            "release_group_mbid":"2f465d57-09ff-365e-8c53-e0053d65ff91"
+          }
+        ],
+        "artist_mbid":"7c06a8cc-6fd6-40d7-b53b-fc7a937171a1",
+        "artist_name":"Erben der Sch\u00f6pfung",
+        "listen_count":1359,
+        "name":"Erben der Sch\u00f6pfung"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":369,
+            "name":"Feel It Break",
+            "release_group_mbid":"4ddef6f3-bce0-4227-8c58-c7675c55fea1"
+          },
+          {
+            "listen_count":279,
+            "name":"Future Politics",
+            "release_group_mbid":"793a4b06-2919-4030-91db-733d1d7c9ae6"
+          },
+          {
+            "listen_count":202,
+            "name":"HiRUDiN",
+            "release_group_mbid":"b05d4436-bdf0-42f4-9b24-b2d0d0541159"
+          },
+          {
+            "listen_count":189,
+            "name":"Olympia",
+            "release_group_mbid":"c7881cce-7e48-4786-8cce-941c1e19e4a8"
+          },
+          {
+            "listen_count":168,
+            "name":"Swan Song (Original Score)",
+            "release_group_mbid":"e4edb00d-1d54-4bae-b47d-3a861541d634"
+          },
+          {
+            "listen_count":50,
+            "name":"Beat and the Pulse",
+            "release_group_mbid":"6f7ecc59-4e5c-4f0f-b5f2-46716532d7ee"
+          },
+          {
+            "listen_count":41,
+            "name":"Change the Paradigm",
+            "release_group_mbid":"d18e22dc-002b-4f09-94de-81be8a24059b"
+          },
+          {
+            "listen_count":37,
+            "name":"I Am Not Waiting (Claptone remix)",
+            "release_group_mbid":"9952e682-6b21-4620-8b77-fdebb3461b05"
+          }
+        ],
+        "artist_mbid":"af9e8d94-d471-4f91-82c7-250c22545162",
+        "artist_name":"Austra",
+        "listen_count":1335,
+        "name":"Austra"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":306,
+            "name":"Endless Forms Most Beautiful",
+            "release_group_mbid":"2f225b26-8867-41bc-aede-718bd3c9fa18"
+          },
+          {
+            "listen_count":227,
+            "name":"Oceanborn",
+            "release_group_mbid":"330d46a3-bd4e-3f5a-83c1-ec2b47f9a8d3"
+          },
+          {
+            "listen_count":206,
+            "name":"Century Child",
+            "release_group_mbid":"cc4fe8bd-3996-3fe9-9860-fe23189a22a4"
+          },
+          {
+            "listen_count":193,
+            "name":"Dark Passion Play",
+            "release_group_mbid":"c12897a3-af7a-3466-8892-58af84765813"
+          },
+          {
+            "listen_count":180,
+            "name":"Once",
+            "release_group_mbid":"84d8f181-8307-360f-bd50-8b6ce1309751"
+          },
+          {
+            "listen_count":91,
+            "name":"Over the Hills and Far Away",
+            "release_group_mbid":"44346904-13f3-325d-8f81-7b3a4745e957"
+          },
+          {
+            "listen_count":43,
+            "name":"Human. :||: Nature.",
+            "release_group_mbid":"887ec003-1f01-4c74-b28e-a81045eea113"
+          }
+        ],
+        "artist_mbid":"00a9f935-ba93-4fc8-a33a-993abe9c936b",
+        "artist_name":"Nightwish",
+        "listen_count":1246,
+        "name":"Nightwish"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":571,
+            "name":"Evergreen",
+            "release_group_mbid":"fd381aa1-65ed-4af2-8f58-40ddf6bfe2dd"
+          },
+          {
+            "listen_count":317,
+            "name":"BROODS",
+            "release_group_mbid":"5576be5d-6e06-4f05-a3fa-aa24d104f0d3"
+          },
+          {
+            "listen_count":169,
+            "name":"Don\u2019t Feed the Pop Monster",
+            "release_group_mbid":"985ebe88-51b7-4c31-a933-86b0bffcaffa"
+          },
+          {
+            "listen_count":103,
+            "name":"Conscious",
+            "release_group_mbid":"2cd5f138-68d0-410e-8610-a57030c98e4c"
+          }
+        ],
+        "artist_mbid":"68205c8f-9518-4b49-8df7-bd297da67599",
+        "artist_name":"BROODS",
+        "listen_count":1160,
+        "name":"BROODS"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":566,
+            "name":"Decipher",
+            "release_group_mbid":"811c8a58-5a50-30e7-a5ee-95d46bbb8dde"
+          },
+          {
+            "listen_count":295,
+            "name":"After Forever",
+            "release_group_mbid":"cbd09d85-f1ca-33cd-878e-c591dfa64918"
+          },
+          {
+            "listen_count":168,
+            "name":"Prison of Desire",
+            "release_group_mbid":"bf4d1605-4779-3919-a077-5c632a43e3e2"
+          },
+          {
+            "listen_count":93,
+            "name":"Follow in the Cry",
+            "release_group_mbid":"7fe249c8-ccc1-3480-a799-ccc94bc63b4b"
+          },
+          {
+            "listen_count":38,
+            "name":"Remagine",
+            "release_group_mbid":"6da075d1-cc38-38a8-b74b-a4cbc8b82ca9"
+          }
+        ],
+        "artist_mbid":"6b966946-5274-4e3d-aabb-7563814d805f",
+        "artist_name":"After Forever",
+        "listen_count":1160,
+        "name":"After Forever"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":358,
+            "name":"Dead Blue",
+            "release_group_mbid":"1bffe6b8-28b6-4cb4-819d-8b2114a135ae"
+          },
+          {
+            "listen_count":304,
+            "name":"Strange Pleasures",
+            "release_group_mbid":"bd21202f-f69a-4e38-8e79-55fc4bb9c4a6"
+          },
+          {
+            "listen_count":223,
+            "name":"Slow Air",
+            "release_group_mbid":"f183e029-aca7-41a3-b605-a737c3336f25"
+          },
+          {
+            "listen_count":57,
+            "name":"Horses at Night",
+            "release_group_mbid":"79c7fcc7-11e8-42a3-bf39-9e68a04b7c99"
+          },
+          {
+            "listen_count":52,
+            "name":"Creatures of an Hour",
+            "release_group_mbid":"9a4a2d72-e6bb-4a85-a99c-5c93f7b00f4b"
+          },
+          {
+            "listen_count":36,
+            "name":"The Last Exit",
+            "release_group_mbid":"cd47f4cf-5c7e-44ce-9544-0895ad629528"
+          }
+        ],
+        "artist_mbid":"ea5493df-b8d9-4c89-bd5b-6c4aeba7a0ac",
+        "artist_name":"Still Corners",
+        "listen_count":1030,
+        "name":"Still Corners"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":722,
+            "name":"The Jade Motel",
+            "release_group_mbid":"122f1367-1c96-38a3-b9d1-6fbb8325c2d2"
+          },
+          {
+            "listen_count":258,
+            "name":"Neverending Love",
+            "release_group_mbid":"2006a595-5cd9-4d97-935d-131d0218361e"
+          },
+          {
+            "listen_count":42,
+            "name":"Wrecked Metal",
+            "release_group_mbid":"6e4af42d-eef7-3705-a482-000ed99db8db"
+          }
+        ],
+        "artist_mbid":"896becf5-d8eb-4556-9177-15127969abde",
+        "artist_name":"Zeigeist",
+        "listen_count":1022,
+        "name":"Zeigeist"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":780,
+            "name":"Utopia",
+            "release_group_mbid":null
+          },
+          {
+            "listen_count":93,
+            "name":"Where Am I Going Now?",
+            "release_group_mbid":null
+          },
+          {
+            "listen_count":80,
+            "name":"O Rio Que Amava o Mar (The Fall)",
+            "release_group_mbid":null
+          },
+          {
+            "listen_count":51,
+            "name":"Angustifolia",
+            "release_group_mbid":null
+          }
+        ],
+        "artist_mbid":null,
+		"artist_name":null,
+        "listen_count":1004,
+        "name":"Thalles"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":389,
+            "name":"Simulation Theory",
+            "release_group_mbid":"8d4198ab-66a7-4292-8125-ac6fe8eb1cab"
+          },
+          {
+            "listen_count":146,
+            "name":"Black Holes and Revelations",
+            "release_group_mbid":"af2e8e23-e9c3-4e67-8ad8-66387c5898fd"
+          },
+          {
+            "listen_count":125,
+            "name":"The 2nd Law",
+            "release_group_mbid":"422cd8ac-8599-4356-b874-4da79a06abac"
+          },
+          {
+            "listen_count":103,
+            "name":"Absolution",
+            "release_group_mbid":"6f151223-f3a3-3e57-810f-598f7897006c"
+          },
+          {
+            "listen_count":74,
+            "name":"The Resistance",
+            "release_group_mbid":"8411a4db-e104-4e45-995f-24b2f1849437"
+          },
+          {
+            "listen_count":63,
+            "name":"Showbiz",
+            "release_group_mbid":"a842d860-a023-3a71-ad2e-a3a94cffabd7"
+          }
+        ],
+        "artist_mbid":"9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+        "artist_name":"Muse",
+        "listen_count":900,
+        "name":"Muse"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":526,
+            "name":"Perpetual Desolation",
+            "release_group_mbid":"14e72218-49b6-3dfc-822f-b9e12c894160"
+          },
+          {
+            "listen_count":319,
+            "name":"Lake of Sorrow",
+            "release_group_mbid":"d2ecd1de-c550-3fad-83f0-e7cc62e9d9ad"
+          }
+        ],
+        "artist_mbid":"ffb0c195-4aeb-4d33-8936-8aaf78e171ad",
+        "artist_name":"The Sins of Thy Beloved",
+        "listen_count":845,
+        "name":"The Sins of Thy Beloved"
+      },
+      {
+        "albums":[
+          {
+            "listen_count":306,
+            "name":"(III)",
+            "release_group_mbid":"5f5f106a-e5d1-4cee-bc6c-8c001ed96724"
+          },
+          {
+            "listen_count":202,
+            "name":"Crystal Castles",
+            "release_group_mbid":"9477d99c-1df7-4ae7-b08d-a2484c8e80f4"
+          },
+          {
+            "listen_count":104,
+            "name":"Amnesty (I)",
+            "release_group_mbid":"445b2a40-7426-4607-b96a-5d6180e334a2"
+          },
+          {
+            "listen_count":96,
+            "name":"Crystal Castles",
+            "release_group_mbid":"3fd716f5-2f67-3890-95ec-20c4032511c8"
+          },
+          {
+            "listen_count":85,
+            "name":"Leni",
+            "release_group_mbid":"874015bb-a603-4a3f-bd94-fccb54b6534d"
+          }
+        ],
+        "artist_mbid":"b1570544-93ab-4b2b-8398-131735394202",
+        "artist_name":"Crystal Castles",
+        "listen_count":793,
+        "name":"Crystal Castles"
+      }
+    ],
+    "from_ts":1009843200,
+    "last_updated":1768718120,
+    "range":"all_time",
+    "to_ts":1768694519,
+    "user_id":"wezencm"
+  }
+}

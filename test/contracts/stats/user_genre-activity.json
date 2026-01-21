@@ -1,0 +1,1211 @@
+{
+  "payload":{
+    "from_ts":1009843200,
+    "genre_activity":[
+      {
+        "genre":"alternative rock",
+        "hour":0,
+        "listen_count":392
+      },
+      {
+        "genre":"alternative rock",
+        "hour":1,
+        "listen_count":452
+      },
+      {
+        "genre":"alternative rock",
+        "hour":2,
+        "listen_count":459
+      },
+      {
+        "genre":"alternative rock",
+        "hour":3,
+        "listen_count":314
+      },
+      {
+        "genre":"alternative rock",
+        "hour":4,
+        "listen_count":254
+      },
+      {
+        "genre":"alternative rock",
+        "hour":5,
+        "listen_count":348
+      },
+      {
+        "genre":"alternative rock",
+        "hour":7,
+        "listen_count":359
+      },
+      {
+        "genre":"alternative rock",
+        "hour":10,
+        "listen_count":440
+      },
+      {
+        "genre":"alternative rock",
+        "hour":12,
+        "listen_count":251
+      },
+      {
+        "genre":"alternative rock",
+        "hour":13,
+        "listen_count":252
+      },
+      {
+        "genre":"alternative rock",
+        "hour":14,
+        "listen_count":219
+      },
+      {
+        "genre":"alternative rock",
+        "hour":16,
+        "listen_count":240
+      },
+      {
+        "genre":"alternative rock",
+        "hour":17,
+        "listen_count":235
+      },
+      {
+        "genre":"alternative rock",
+        "hour":18,
+        "listen_count":316
+      },
+      {
+        "genre":"alternative rock",
+        "hour":19,
+        "listen_count":373
+      },
+      {
+        "genre":"alternative rock",
+        "hour":20,
+        "listen_count":486
+      },
+      {
+        "genre":"alternative rock",
+        "hour":21,
+        "listen_count":476
+      },
+      {
+        "genre":"alternative rock",
+        "hour":22,
+        "listen_count":520
+      },
+      {
+        "genre":"alternative rock",
+        "hour":23,
+        "listen_count":472
+      },
+      {
+        "genre":"electronic",
+        "hour":0,
+        "listen_count":600
+      },
+      {
+        "genre":"electronic",
+        "hour":1,
+        "listen_count":778
+      },
+      {
+        "genre":"electronic",
+        "hour":2,
+        "listen_count":853
+      },
+      {
+        "genre":"electronic",
+        "hour":3,
+        "listen_count":608
+      },
+      {
+        "genre":"electronic",
+        "hour":4,
+        "listen_count":548
+      },
+      {
+        "genre":"electronic",
+        "hour":5,
+        "listen_count":763
+      },
+      {
+        "genre":"electronic",
+        "hour":6,
+        "listen_count":813
+      },
+      {
+        "genre":"electronic",
+        "hour":7,
+        "listen_count":706
+      },
+      {
+        "genre":"electronic",
+        "hour":8,
+        "listen_count":667
+      },
+      {
+        "genre":"electronic",
+        "hour":9,
+        "listen_count":912
+      },
+      {
+        "genre":"electronic",
+        "hour":10,
+        "listen_count":1124
+      },
+      {
+        "genre":"electronic",
+        "hour":11,
+        "listen_count":574
+      },
+      {
+        "genre":"electronic",
+        "hour":12,
+        "listen_count":549
+      },
+      {
+        "genre":"electronic",
+        "hour":13,
+        "listen_count":492
+      },
+      {
+        "genre":"electronic",
+        "hour":14,
+        "listen_count":418
+      },
+      {
+        "genre":"electronic",
+        "hour":15,
+        "listen_count":563
+      },
+      {
+        "genre":"electronic",
+        "hour":16,
+        "listen_count":567
+      },
+      {
+        "genre":"electronic",
+        "hour":17,
+        "listen_count":533
+      },
+      {
+        "genre":"electronic",
+        "hour":18,
+        "listen_count":602
+      },
+      {
+        "genre":"electronic",
+        "hour":19,
+        "listen_count":679
+      },
+      {
+        "genre":"electronic",
+        "hour":20,
+        "listen_count":824
+      },
+      {
+        "genre":"electronic",
+        "hour":21,
+        "listen_count":854
+      },
+      {
+        "genre":"electronic",
+        "hour":22,
+        "listen_count":914
+      },
+      {
+        "genre":"electronic",
+        "hour":23,
+        "listen_count":838
+      },
+      {
+        "genre":"gothic metal",
+        "hour":0,
+        "listen_count":557
+      },
+      {
+        "genre":"gothic metal",
+        "hour":1,
+        "listen_count":631
+      },
+      {
+        "genre":"gothic metal",
+        "hour":2,
+        "listen_count":858
+      },
+      {
+        "genre":"gothic metal",
+        "hour":3,
+        "listen_count":573
+      },
+      {
+        "genre":"gothic metal",
+        "hour":4,
+        "listen_count":502
+      },
+      {
+        "genre":"gothic metal",
+        "hour":5,
+        "listen_count":474
+      },
+      {
+        "genre":"gothic metal",
+        "hour":6,
+        "listen_count":513
+      },
+      {
+        "genre":"gothic metal",
+        "hour":7,
+        "listen_count":476
+      },
+      {
+        "genre":"gothic metal",
+        "hour":8,
+        "listen_count":455
+      },
+      {
+        "genre":"gothic metal",
+        "hour":9,
+        "listen_count":633
+      },
+      {
+        "genre":"gothic metal",
+        "hour":10,
+        "listen_count":611
+      },
+      {
+        "genre":"gothic metal",
+        "hour":11,
+        "listen_count":396
+      },
+      {
+        "genre":"gothic metal",
+        "hour":12,
+        "listen_count":440
+      },
+      {
+        "genre":"gothic metal",
+        "hour":13,
+        "listen_count":371
+      },
+      {
+        "genre":"gothic metal",
+        "hour":14,
+        "listen_count":469
+      },
+      {
+        "genre":"gothic metal",
+        "hour":15,
+        "listen_count":492
+      },
+      {
+        "genre":"gothic metal",
+        "hour":16,
+        "listen_count":415
+      },
+      {
+        "genre":"gothic metal",
+        "hour":17,
+        "listen_count":511
+      },
+      {
+        "genre":"gothic metal",
+        "hour":18,
+        "listen_count":715
+      },
+      {
+        "genre":"gothic metal",
+        "hour":19,
+        "listen_count":752
+      },
+      {
+        "genre":"gothic metal",
+        "hour":20,
+        "listen_count":960
+      },
+      {
+        "genre":"gothic metal",
+        "hour":21,
+        "listen_count":982
+      },
+      {
+        "genre":"gothic metal",
+        "hour":22,
+        "listen_count":980
+      },
+      {
+        "genre":"gothic metal",
+        "hour":23,
+        "listen_count":771
+      },
+      {
+        "genre":"heavy metal",
+        "hour":0,
+        "listen_count":597
+      },
+      {
+        "genre":"heavy metal",
+        "hour":1,
+        "listen_count":686
+      },
+      {
+        "genre":"heavy metal",
+        "hour":2,
+        "listen_count":1008
+      },
+      {
+        "genre":"heavy metal",
+        "hour":3,
+        "listen_count":581
+      },
+      {
+        "genre":"heavy metal",
+        "hour":4,
+        "listen_count":538
+      },
+      {
+        "genre":"heavy metal",
+        "hour":5,
+        "listen_count":537
+      },
+      {
+        "genre":"heavy metal",
+        "hour":6,
+        "listen_count":531
+      },
+      {
+        "genre":"heavy metal",
+        "hour":7,
+        "listen_count":541
+      },
+      {
+        "genre":"heavy metal",
+        "hour":8,
+        "listen_count":495
+      },
+      {
+        "genre":"heavy metal",
+        "hour":9,
+        "listen_count":872
+      },
+      {
+        "genre":"heavy metal",
+        "hour":10,
+        "listen_count":791
+      },
+      {
+        "genre":"heavy metal",
+        "hour":11,
+        "listen_count":441
+      },
+      {
+        "genre":"heavy metal",
+        "hour":12,
+        "listen_count":496
+      },
+      {
+        "genre":"heavy metal",
+        "hour":13,
+        "listen_count":359
+      },
+      {
+        "genre":"heavy metal",
+        "hour":14,
+        "listen_count":442
+      },
+      {
+        "genre":"heavy metal",
+        "hour":15,
+        "listen_count":552
+      },
+      {
+        "genre":"heavy metal",
+        "hour":16,
+        "listen_count":449
+      },
+      {
+        "genre":"heavy metal",
+        "hour":17,
+        "listen_count":517
+      },
+      {
+        "genre":"heavy metal",
+        "hour":18,
+        "listen_count":734
+      },
+      {
+        "genre":"heavy metal",
+        "hour":19,
+        "listen_count":758
+      },
+      {
+        "genre":"heavy metal",
+        "hour":20,
+        "listen_count":1035
+      },
+      {
+        "genre":"heavy metal",
+        "hour":21,
+        "listen_count":1056
+      },
+      {
+        "genre":"heavy metal",
+        "hour":22,
+        "listen_count":1079
+      },
+      {
+        "genre":"heavy metal",
+        "hour":23,
+        "listen_count":834
+      },
+      {
+        "genre":"indie rock",
+        "hour":6,
+        "listen_count":331
+      },
+      {
+        "genre":"indie rock",
+        "hour":8,
+        "listen_count":335
+      },
+      {
+        "genre":"indie rock",
+        "hour":11,
+        "listen_count":244
+      },
+      {
+        "genre":"indie rock",
+        "hour":15,
+        "listen_count":269
+      },
+      {
+        "genre":"metal",
+        "hour":0,
+        "listen_count":891
+      },
+      {
+        "genre":"metal",
+        "hour":1,
+        "listen_count":1002
+      },
+      {
+        "genre":"metal",
+        "hour":2,
+        "listen_count":1421
+      },
+      {
+        "genre":"metal",
+        "hour":3,
+        "listen_count":883
+      },
+      {
+        "genre":"metal",
+        "hour":4,
+        "listen_count":794
+      },
+      {
+        "genre":"metal",
+        "hour":5,
+        "listen_count":823
+      },
+      {
+        "genre":"metal",
+        "hour":6,
+        "listen_count":792
+      },
+      {
+        "genre":"metal",
+        "hour":7,
+        "listen_count":772
+      },
+      {
+        "genre":"metal",
+        "hour":8,
+        "listen_count":735
+      },
+      {
+        "genre":"metal",
+        "hour":9,
+        "listen_count":1214
+      },
+      {
+        "genre":"metal",
+        "hour":10,
+        "listen_count":1112
+      },
+      {
+        "genre":"metal",
+        "hour":11,
+        "listen_count":631
+      },
+      {
+        "genre":"metal",
+        "hour":12,
+        "listen_count":691
+      },
+      {
+        "genre":"metal",
+        "hour":13,
+        "listen_count":605
+      },
+      {
+        "genre":"metal",
+        "hour":14,
+        "listen_count":702
+      },
+      {
+        "genre":"metal",
+        "hour":15,
+        "listen_count":774
+      },
+      {
+        "genre":"metal",
+        "hour":16,
+        "listen_count":664
+      },
+      {
+        "genre":"metal",
+        "hour":17,
+        "listen_count":816
+      },
+      {
+        "genre":"metal",
+        "hour":18,
+        "listen_count":1111
+      },
+      {
+        "genre":"metal",
+        "hour":19,
+        "listen_count":1224
+      },
+      {
+        "genre":"metal",
+        "hour":20,
+        "listen_count":1552
+      },
+      {
+        "genre":"metal",
+        "hour":21,
+        "listen_count":1570
+      },
+      {
+        "genre":"metal",
+        "hour":22,
+        "listen_count":1625
+      },
+      {
+        "genre":"metal",
+        "hour":23,
+        "listen_count":1243
+      },
+      {
+        "genre":"pop",
+        "hour":0,
+        "listen_count":514
+      },
+      {
+        "genre":"pop",
+        "hour":1,
+        "listen_count":616
+      },
+      {
+        "genre":"pop",
+        "hour":2,
+        "listen_count":739
+      },
+      {
+        "genre":"pop",
+        "hour":3,
+        "listen_count":494
+      },
+      {
+        "genre":"pop",
+        "hour":4,
+        "listen_count":451
+      },
+      {
+        "genre":"pop",
+        "hour":5,
+        "listen_count":636
+      },
+      {
+        "genre":"pop",
+        "hour":6,
+        "listen_count":612
+      },
+      {
+        "genre":"pop",
+        "hour":7,
+        "listen_count":615
+      },
+      {
+        "genre":"pop",
+        "hour":8,
+        "listen_count":510
+      },
+      {
+        "genre":"pop",
+        "hour":9,
+        "listen_count":736
+      },
+      {
+        "genre":"pop",
+        "hour":10,
+        "listen_count":890
+      },
+      {
+        "genre":"pop",
+        "hour":11,
+        "listen_count":438
+      },
+      {
+        "genre":"pop",
+        "hour":12,
+        "listen_count":432
+      },
+      {
+        "genre":"pop",
+        "hour":13,
+        "listen_count":409
+      },
+      {
+        "genre":"pop",
+        "hour":14,
+        "listen_count":348
+      },
+      {
+        "genre":"pop",
+        "hour":15,
+        "listen_count":458
+      },
+      {
+        "genre":"pop",
+        "hour":16,
+        "listen_count":422
+      },
+      {
+        "genre":"pop",
+        "hour":17,
+        "listen_count":390
+      },
+      {
+        "genre":"pop",
+        "hour":18,
+        "listen_count":532
+      },
+      {
+        "genre":"pop",
+        "hour":19,
+        "listen_count":540
+      },
+      {
+        "genre":"pop",
+        "hour":20,
+        "listen_count":696
+      },
+      {
+        "genre":"pop",
+        "hour":21,
+        "listen_count":705
+      },
+      {
+        "genre":"pop",
+        "hour":22,
+        "listen_count":810
+      },
+      {
+        "genre":"pop",
+        "hour":23,
+        "listen_count":689
+      },
+      {
+        "genre":"power metal",
+        "hour":9,
+        "listen_count":392
+      },
+      {
+        "genre":"rock",
+        "hour":0,
+        "listen_count":1590
+      },
+      {
+        "genre":"rock",
+        "hour":1,
+        "listen_count":1900
+      },
+      {
+        "genre":"rock",
+        "hour":2,
+        "listen_count":2364
+      },
+      {
+        "genre":"rock",
+        "hour":3,
+        "listen_count":1515
+      },
+      {
+        "genre":"rock",
+        "hour":4,
+        "listen_count":1345
+      },
+      {
+        "genre":"rock",
+        "hour":5,
+        "listen_count":1508
+      },
+      {
+        "genre":"rock",
+        "hour":6,
+        "listen_count":1514
+      },
+      {
+        "genre":"rock",
+        "hour":7,
+        "listen_count":1464
+      },
+      {
+        "genre":"rock",
+        "hour":8,
+        "listen_count":1363
+      },
+      {
+        "genre":"rock",
+        "hour":9,
+        "listen_count":2079
+      },
+      {
+        "genre":"rock",
+        "hour":10,
+        "listen_count":2081
+      },
+      {
+        "genre":"rock",
+        "hour":11,
+        "listen_count":1134
+      },
+      {
+        "genre":"rock",
+        "hour":12,
+        "listen_count":1232
+      },
+      {
+        "genre":"rock",
+        "hour":13,
+        "listen_count":1119
+      },
+      {
+        "genre":"rock",
+        "hour":14,
+        "listen_count":1126
+      },
+      {
+        "genre":"rock",
+        "hour":15,
+        "listen_count":1348
+      },
+      {
+        "genre":"rock",
+        "hour":16,
+        "listen_count":1199
+      },
+      {
+        "genre":"rock",
+        "hour":17,
+        "listen_count":1324
+      },
+      {
+        "genre":"rock",
+        "hour":18,
+        "listen_count":1735
+      },
+      {
+        "genre":"rock",
+        "hour":19,
+        "listen_count":1902
+      },
+      {
+        "genre":"rock",
+        "hour":20,
+        "listen_count":2457
+      },
+      {
+        "genre":"rock",
+        "hour":21,
+        "listen_count":2490
+      },
+      {
+        "genre":"rock",
+        "hour":22,
+        "listen_count":2702
+      },
+      {
+        "genre":"rock",
+        "hour":23,
+        "listen_count":2104
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":0,
+        "listen_count":610
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":1,
+        "listen_count":717
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":2,
+        "listen_count":1061
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":3,
+        "listen_count":674
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":4,
+        "listen_count":596
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":5,
+        "listen_count":584
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":6,
+        "listen_count":586
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":7,
+        "listen_count":539
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":8,
+        "listen_count":504
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":9,
+        "listen_count":810
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":10,
+        "listen_count":729
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":11,
+        "listen_count":458
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":12,
+        "listen_count":494
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":13,
+        "listen_count":440
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":14,
+        "listen_count":516
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":15,
+        "listen_count":552
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":16,
+        "listen_count":460
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":17,
+        "listen_count":627
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":18,
+        "listen_count":832
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":19,
+        "listen_count":884
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":20,
+        "listen_count":1149
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":21,
+        "listen_count":1187
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":22,
+        "listen_count":1180
+      },
+      {
+        "genre":"symphonic metal",
+        "hour":23,
+        "listen_count":867
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":0,
+        "listen_count":434
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":1,
+        "listen_count":490
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":2,
+        "listen_count":727
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":3,
+        "listen_count":482
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":4,
+        "listen_count":438
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":5,
+        "listen_count":394
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":6,
+        "listen_count":458
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":7,
+        "listen_count":401
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":8,
+        "listen_count":367
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":9,
+        "listen_count":553
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":10,
+        "listen_count":474
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":11,
+        "listen_count":313
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":12,
+        "listen_count":358
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":13,
+        "listen_count":309
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":14,
+        "listen_count":373
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":15,
+        "listen_count":387
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":16,
+        "listen_count":319
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":17,
+        "listen_count":444
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":18,
+        "listen_count":568
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":19,
+        "listen_count":601
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":20,
+        "listen_count":837
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":21,
+        "listen_count":836
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":22,
+        "listen_count":830
+      },
+      {
+        "genre":"symphonic rock",
+        "hour":23,
+        "listen_count":609
+      },
+      {
+        "genre":"synth-pop",
+        "hour":0,
+        "listen_count":306
+      },
+      {
+        "genre":"synth-pop",
+        "hour":1,
+        "listen_count":417
+      },
+      {
+        "genre":"synth-pop",
+        "hour":2,
+        "listen_count":465
+      },
+      {
+        "genre":"synth-pop",
+        "hour":3,
+        "listen_count":339
+      },
+      {
+        "genre":"synth-pop",
+        "hour":4,
+        "listen_count":322
+      },
+      {
+        "genre":"synth-pop",
+        "hour":5,
+        "listen_count":418
+      },
+      {
+        "genre":"synth-pop",
+        "hour":6,
+        "listen_count":434
+      },
+      {
+        "genre":"synth-pop",
+        "hour":7,
+        "listen_count":384
+      },
+      {
+        "genre":"synth-pop",
+        "hour":8,
+        "listen_count":344
+      },
+      {
+        "genre":"synth-pop",
+        "hour":9,
+        "listen_count":497
+      },
+      {
+        "genre":"synth-pop",
+        "hour":10,
+        "listen_count":595
+      },
+      {
+        "genre":"synth-pop",
+        "hour":11,
+        "listen_count":325
+      },
+      {
+        "genre":"synth-pop",
+        "hour":12,
+        "listen_count":284
+      },
+      {
+        "genre":"synth-pop",
+        "hour":13,
+        "listen_count":247
+      },
+      {
+        "genre":"synth-pop",
+        "hour":14,
+        "listen_count":201
+      },
+      {
+        "genre":"synth-pop",
+        "hour":15,
+        "listen_count":319
+      },
+      {
+        "genre":"synth-pop",
+        "hour":16,
+        "listen_count":304
+      },
+      {
+        "genre":"synth-pop",
+        "hour":17,
+        "listen_count":286
+      },
+      {
+        "genre":"synth-pop",
+        "hour":18,
+        "listen_count":295
+      },
+      {
+        "genre":"synth-pop",
+        "hour":19,
+        "listen_count":346
+      },
+      {
+        "genre":"synth-pop",
+        "hour":20,
+        "listen_count":427
+      },
+      {
+        "genre":"synth-pop",
+        "hour":21,
+        "listen_count":430
+      },
+      {
+        "genre":"synth-pop",
+        "hour":22,
+        "listen_count":469
+      },
+      {
+        "genre":"synth-pop",
+        "hour":23,
+        "listen_count":429
+      }
+    ],
+    "last_updated":1768718395,
+    "range":"all_time",
+    "to_ts":1768694519,
+    "user_id":"wezencm"
+  }
+}
