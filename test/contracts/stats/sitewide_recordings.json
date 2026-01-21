@@ -1,0 +1,338 @@
+{
+  "payload":{
+    "count":25,
+    "from_ts":1009843200,
+    "last_updated":1768720279,
+    "offset":0,
+    "range":"all_time",
+    "recordings":[
+      {
+        "artist_mbids":[
+          "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+        ],
+        "artist_name":"Nirvana",
+        "caa_id":9470150007,
+        "caa_release_mbid":"eccae410-7577-4daa-b602-92d305828331",
+        "listen_count":162248,
+        "recording_mbid":"5fb524f1-8cc8-4c04-a921-e34c0a911ea7",
+        "release_mbid":"eccae410-7577-4daa-b602-92d305828331",
+        "release_name":"Nevermind",
+        "track_name":"Smells Like Teen Spirit"
+      },
+      {
+        "artist_mbids":[
+          "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        ],
+        "artist_name":"Radiohead",
+        "caa_id":4203359815,
+        "caa_release_mbid":"07aab296-9a40-42a9-8d1f-6b06aa032e8a",
+        "listen_count":154564,
+        "recording_mbid":"70595637-9310-45f2-a266-58f8de4874a7",
+        "release_mbid":"07aab296-9a40-42a9-8d1f-6b06aa032e8a",
+        "release_name":"Pablo Honey",
+        "track_name":"Creep"
+      },
+      {
+        "artist_mbids":[
+          "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+        ],
+        "artist_name":"Linkin Park",
+        "caa_id":5444094178,
+        "caa_release_mbid":"a92e8636-a48c-4ad1-8a5f-4f8a968a50ac",
+        "listen_count":152916,
+        "recording_mbid":"9d70086c-5d7a-4e7f-b1ed-c53c4b11310f",
+        "release_mbid":"a92e8636-a48c-4ad1-8a5f-4f8a968a50ac",
+        "release_name":"Hybrid Theory",
+        "track_name":"In the End"
+      },
+      {
+        "artist_mbids":[
+          "cc0b7089-c08d-4c10-b6b0-873582c17fd6"
+        ],
+        "artist_name":"System of a Down",
+        "caa_id":2813366681,
+        "caa_release_mbid":"929ab33e-0e04-4c81-8027-b456b2c9ed4f",
+        "listen_count":152089,
+        "recording_mbid":"46c7368a-013a-47b6-97cc-e55e7ab25213",
+        "release_mbid":"929ab33e-0e04-4c81-8027-b456b2c9ed4f",
+        "release_name":"Toxicity",
+        "track_name":"Chop Suey!"
+      },
+      {
+        "artist_mbids":[
+          "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        ],
+        "artist_name":"Radiohead",
+        "caa_id":18174904878,
+        "caa_release_mbid":"1834eae1-741b-3c03-9ca5-0df3decb43ea",
+        "listen_count":148049,
+        "recording_mbid":"9e2ad5bc-c6f9-40d2-a36f-3122ee2072a3",
+        "release_mbid":"1834eae1-741b-3c03-9ca5-0df3decb43ea",
+        "release_name":"OK Computer",
+        "track_name":"Karma Police"
+      },
+      {
+        "artist_mbids":[
+          "95e1ead9-4d31-4808-a7ac-32c3614c116b"
+        ],
+        "artist_name":"The Killers",
+        "caa_id":2077878547,
+        "caa_release_mbid":"3127c6af-617f-4d82-9002-6cc74ab8648d",
+        "listen_count":146006,
+        "recording_mbid":"560062d0-e122-46be-9d89-0f3b44077fdf",
+        "release_mbid":"3127c6af-617f-4d82-9002-6cc74ab8648d",
+        "release_name":"Hot Fuss",
+        "track_name":"Mr. Brightside"
+      },
+      {
+        "artist_mbids":[
+          "5b11f4ce-a62d-471e-81fc-a69a8278c7da"
+        ],
+        "artist_name":"Nirvana",
+        "caa_id":9470150007,
+        "caa_release_mbid":"eccae410-7577-4daa-b602-92d305828331",
+        "listen_count":141767,
+        "recording_mbid":"70ac6733-068f-4613-b06b-bea17cfbcc30",
+        "release_mbid":"eccae410-7577-4daa-b602-92d305828331",
+        "release_name":"Nevermind",
+        "track_name":"Come as You Are"
+      },
+      {
+        "artist_mbids":[
+          "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        ],
+        "artist_name":"Radiohead",
+        "caa_id":18174904878,
+        "caa_release_mbid":"1834eae1-741b-3c03-9ca5-0df3decb43ea",
+        "listen_count":141720,
+        "recording_mbid":"980a426e-623e-4ea5-98c7-008d037a0508",
+        "release_mbid":"1834eae1-741b-3c03-9ca5-0df3decb43ea",
+        "release_name":"OK Computer",
+        "track_name":"No Surprises"
+      },
+      {
+        "artist_mbids":[
+          "e21857d5-3256-4547-afb3-4b6ded592596"
+        ],
+        "artist_name":"Gorillaz",
+        "caa_id":4436715369,
+        "caa_release_mbid":"2968b394-7ca8-3b6a-a3ec-a0239adb01c9",
+        "listen_count":138390,
+        "recording_mbid":"6544ac1d-0108-40ee-aa7a-b644ef7a3b46",
+        "release_mbid":"2968b394-7ca8-3b6a-a3ec-a0239adb01c9",
+        "release_name":"Demon Days",
+        "track_name":"Feel Good Inc."
+      },
+      {
+        "artist_mbids":[
+          "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+        ],
+        "artist_name":"Queen",
+        "caa_id":13154196521,
+        "caa_release_mbid":"a3fc41b4-4ab8-355a-94df-4f70654e455d",
+        "listen_count":138063,
+        "recording_mbid":"b1a9c0e9-d987-4042-ae91-78d6a3267d69",
+        "release_mbid":"a3fc41b4-4ab8-355a-94df-4f70654e455d",
+        "release_name":"A Night at the Opera",
+        "track_name":"Bohemian Rhapsody"
+      },
+      {
+        "artist_mbids":[
+          "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+        ],
+        "artist_name":"Linkin Park",
+        "caa_id":36932158980,
+        "caa_release_mbid":"e9b5c5ad-d91e-39d0-89fc-b8ac312bcc55",
+        "listen_count":137810,
+        "recording_mbid":"352dd518-23cd-4c5a-9551-ba02097b177b",
+        "release_mbid":"e9b5c5ad-d91e-39d0-89fc-b8ac312bcc55",
+        "release_name":"Meteora",
+        "track_name":"Numb"
+      },
+      {
+        "artist_mbids":[
+          "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+        ],
+        "artist_name":"Tame Impala",
+        "caa_id":25489083340,
+        "caa_release_mbid":"b9410b9a-cb64-41ac-b863-fa95f8eb51ea",
+        "listen_count":128696,
+        "recording_mbid":"78be434c-0908-458f-9693-f16cdebb68ef",
+        "release_mbid":"b9410b9a-cb64-41ac-b863-fa95f8eb51ea",
+        "release_name":"Currents",
+        "track_name":"The Less I Know the Better"
+      },
+      {
+        "artist_mbids":[
+          "11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5"
+        ],
+        "artist_name":"The White Stripes",
+        "caa_id":4817243161,
+        "caa_release_mbid":"9bf86596-1ef0-4bd4-8f5e-bb205a77b075",
+        "listen_count":126834,
+        "recording_mbid":"24cc8311-98fd-423a-bed1-97728f5eabc5",
+        "release_mbid":"9bf86596-1ef0-4bd4-8f5e-bb205a77b075",
+        "release_name":"Elephant",
+        "track_name":"Seven Nation Army"
+      },
+      {
+        "artist_mbids":[
+          "67f66c07-6e61-4026-ade5-7e782fad3a5d"
+        ],
+        "artist_name":"Foo Fighters",
+        "caa_id":9459079681,
+        "caa_release_mbid":"b5e50e39-e23f-4786-8af3-1d33891b2497",
+        "listen_count":125713,
+        "recording_mbid":"9160e42b-8fae-402d-9cee-d6826c5cce33",
+        "release_mbid":"b5e50e39-e23f-4786-8af3-1d33891b2497",
+        "release_name":"The Colour and the Shape",
+        "track_name":"Everlong"
+      },
+      {
+        "artist_mbids":[
+          "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+        ],
+        "artist_name":"Radiohead",
+        "caa_id":18174904878,
+        "caa_release_mbid":"1834eae1-741b-3c03-9ca5-0df3decb43ea",
+        "listen_count":125225,
+        "recording_mbid":"9f9cf187-d6f9-437f-9d98-d59cdbd52757",
+        "release_mbid":"1834eae1-741b-3c03-9ca5-0df3decb43ea",
+        "release_name":"OK Computer",
+        "track_name":"Paranoid Android"
+      },
+      {
+        "artist_mbids":[
+          "c8b03190-306c-4120-bb0b-6f2ebfc06ea9"
+        ],
+        "artist_name":"The Weeknd",
+        "caa_id":28418011574,
+        "caa_release_mbid":"fd7ebee8-8c64-4127-a9be-8e31ed6364e3",
+        "listen_count":125063,
+        "recording_mbid":"1a67e215-a19e-40c9-9b12-732de134bf5f",
+        "release_mbid":"fd7ebee8-8c64-4127-a9be-8e31ed6364e3",
+        "release_name":"After Hours",
+        "track_name":"Blinding Lights"
+      },
+      {
+        "artist_mbids":[
+          "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
+        ],
+        "artist_name":"Arctic Monkeys",
+        "caa_id":32131848311,
+        "caa_release_mbid":"55171afe-440e-4c63-947c-e49074f3d5b5",
+        "listen_count":122446,
+        "recording_mbid":"f1e57531-e0df-4b3e-938f-1ae30c5b1a11",
+        "release_mbid":"55171afe-440e-4c63-947c-e49074f3d5b5",
+        "release_name":"AM",
+        "track_name":"Do I Wanna Know?"
+      },
+      {
+        "artist_mbids":[
+          "b6b2bb8d-54a9-491f-9607-7b546023b433"
+        ],
+        "artist_name":"Pixies",
+        "caa_id":6189486026,
+        "caa_release_mbid":"9aebe9d4-18ac-4a43-9b00-19e2003aa076",
+        "listen_count":119805,
+        "recording_mbid":"d201070b-ff15-49ce-877b-f91032617faf",
+        "release_mbid":"9aebe9d4-18ac-4a43-9b00-19e2003aa076",
+        "release_name":"Surfer Rosa",
+        "track_name":"Where Is My Mind?"
+      },
+      {
+        "artist_mbids":[
+          "39ab1aed-75e0-4140-bd47-540276886b60"
+        ],
+        "artist_name":"Oasis",
+        "caa_id":39250165476,
+        "caa_release_mbid":"ed286309-6e64-48e3-835b-61aaf86cdb86",
+        "listen_count":117915,
+        "recording_mbid":"580f4553-e29a-4d19-989c-1b097b76de48",
+        "release_mbid":"ed286309-6e64-48e3-835b-61aaf86cdb86",
+        "release_name":"(What\u2019s the Story) Morning Glory?",
+        "track_name":"Wonderwall"
+      },
+      {
+        "artist_mbids":[
+          "3798b104-01cb-484c-a3b0-56adc6399b80"
+        ],
+        "artist_name":"Rage Against the Machine",
+        "caa_id":14831550634,
+        "caa_release_mbid":"7a8e7efc-2341-4502-96f1-d7a27152ca2e",
+        "listen_count":117142,
+        "recording_mbid":"5f64bf87-a18e-4ac0-8a49-dc1d500a8ba5",
+        "release_mbid":"7a8e7efc-2341-4502-96f1-d7a27152ca2e",
+        "release_name":"Rage Against the Machine",
+        "track_name":"Killing in the Name"
+      },
+      {
+        "artist_mbids":[
+          "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+        ],
+        "artist_name":"Coldplay",
+        "caa_id":1049274272,
+        "caa_release_mbid":"ab5e9dce-dc97-482d-a29f-786fe2211812",
+        "listen_count":116448,
+        "recording_mbid":"307ce9da-5690-4e21-ab71-9d12ea106e52",
+        "release_mbid":"ab5e9dce-dc97-482d-a29f-786fe2211812",
+        "release_name":"Viva la Vida or Death and All His Friends",
+        "track_name":"Viva la vida"
+      },
+      {
+        "artist_mbids":[
+          "cc0b7089-c08d-4c10-b6b0-873582c17fd6"
+        ],
+        "artist_name":"System of a Down",
+        "caa_id":2813366681,
+        "caa_release_mbid":"929ab33e-0e04-4c81-8027-b456b2c9ed4f",
+        "listen_count":116091,
+        "recording_mbid":"4e1083c3-b577-48e9-9a56-7bbbcbb1d6e7",
+        "release_mbid":"929ab33e-0e04-4c81-8027-b456b2c9ed4f",
+        "release_name":"Toxicity",
+        "track_name":"Toxicity"
+      },
+      {
+        "artist_mbids":[
+          "5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
+        ],
+        "artist_name":"Black Sabbath",
+        "caa_id":14764200778,
+        "caa_release_mbid":"9007bff2-6e5d-4047-bc65-9b1fd61ea116",
+        "listen_count":114079,
+        "recording_mbid":"868e3b55-4e4a-475f-94a8-020a6edc0aa2",
+        "release_mbid":"9007bff2-6e5d-4047-bc65-9b1fd61ea116",
+        "release_name":"Paranoid",
+        "track_name":"Paranoid"
+      },
+      {
+        "artist_mbids":[
+          "aa7a2827-f74b-473c-bd79-03d065835cf7"
+        ],
+        "artist_name":"Franz Ferdinand",
+        "caa_id":2107299479,
+        "caa_release_mbid":"fe44f756-6566-4bd9-be62-3601ea3a11c1",
+        "listen_count":113559,
+        "recording_mbid":"a1818245-54db-4881-86be-7ff3180c3e06",
+        "release_mbid":"fe44f756-6566-4bd9-be62-3601ea3a11c1",
+        "release_name":"Franz Ferdinand",
+        "track_name":"Take Me Out"
+      },
+      {
+        "artist_mbids":[
+          "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
+        ],
+        "artist_name":"Massive Attack",
+        "caa_id":8202631241,
+        "caa_release_mbid":"2fa63133-a4c9-3f41-8deb-162189de83ff",
+        "listen_count":113320,
+        "recording_mbid":"f3bba4cd-8018-468b-902e-bc8f029593e5",
+        "release_mbid":"2fa63133-a4c9-3f41-8deb-162189de83ff",
+        "release_name":"Mezzanine",
+        "track_name":"Teardrop"
+      }
+    ],
+    "to_ts":1768694519,
+    "total_recording_count":57555681
+  }
+}

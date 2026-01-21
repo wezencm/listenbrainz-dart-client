@@ -4,6 +4,7 @@ import 'package:listenbrainz/components/auxiliar.dart';
 import 'package:listenbrainz/components/core.dart';
 import 'package:listenbrainz/components/playlists.dart';
 import 'package:listenbrainz/components/recordings.dart';
+import 'package:listenbrainz/components/stats/stats.dart';
 import 'package:listenbrainz/types/instance_init.dart';
 import 'package:listenbrainz/utils/rate_limiter.dart';
 
@@ -20,5 +21,6 @@ class ListenBrainz {
   late final core = Core(params, _limiter, _client);
   late final playlists = PlaylistManager(params, _limiter, _client);
   late final recordings = Recordings(params, _limiter, _client);
+  late final stats = Stats(params, _limiter, _client);
   late final aux = Aux(params, _limiter, _client);
 }

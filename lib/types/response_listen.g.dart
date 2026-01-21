@@ -35,7 +35,7 @@ Map<String, dynamic> _$ResponseListenToJson(ResponseListen instance) {
       _$JsonConverterToJson<String, UuidString>(
           instance.recordingMsid, const UuidConverter().toJson));
   writeNotNull('user_id', instance.userId);
-  val['track_metadata'] = instance.trackMetadata;
+  val['track_metadata'] = instance.trackMetadata.toJson();
   return val;
 }
 
@@ -73,7 +73,7 @@ Map<String, dynamic> _$ResponseTrackMetadataToJson(
     'artist_name': instance.artistName,
     'release_name': instance.releaseName,
     'track_name': instance.trackName,
-    'additional_info': instance.additionalInfo,
+    'additional_info': instance.additionalInfo.toJson(),
   };
 
   void writeNotNull(String key, dynamic value) {
@@ -82,7 +82,8 @@ Map<String, dynamic> _$ResponseTrackMetadataToJson(
     }
   }
 
-  writeNotNull('brainz_player_metadata', instance.brainzPlayerMetadata);
-  writeNotNull('mbid_mapping', instance.mbidMapping);
+  writeNotNull(
+      'brainz_player_metadata', instance.brainzPlayerMetadata?.toJson());
+  writeNotNull('mbid_mapping', instance.mbidMapping?.toJson());
   return val;
 }

@@ -46,7 +46,7 @@ Map<String, dynamic> _$RecordingFeedbackToJson(RecordingFeedback instance) {
       'created',
       _$JsonConverterToJson<int, DateTime>(
           instance.created, const DateTimeMillisecondsConverter().toJson));
-  writeNotNull('track_metadata', instance.trackMetadata);
+  writeNotNull('track_metadata', instance.trackMetadata?.toJson());
   return val;
 }
 

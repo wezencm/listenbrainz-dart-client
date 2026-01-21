@@ -1,0 +1,502 @@
+{
+  "payload":{
+    "count":25,
+    "from_ts":1009843200,
+    "last_updated":1768717305,
+    "offset":0,
+    "range":"all_time",
+    "recordings":[
+      {
+        "artist_mbids":[
+          "7c06a8cc-6fd6-40d7-b53b-fc7a937171a1"
+        ],
+        "artist_name":"Erben der Sch\u00f6pfung",
+        "artists":[
+          {
+            "artist_credit_name":"Erben der Sch\u00f6pfung",
+            "artist_mbid":"7c06a8cc-6fd6-40d7-b53b-fc7a937171a1",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":42874679491,
+        "caa_release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "listen_count":264,
+        "recording_mbid":"8a3df0d0-ec11-4900-95d6-0c448b5681bc",
+        "release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "release_name":"Twilight",
+        "track_name":"Sleep and Death"
+      },
+      {
+        "artist_mbids":[
+          "7c06a8cc-6fd6-40d7-b53b-fc7a937171a1"
+        ],
+        "artist_name":"Erben der Sch\u00f6pfung",
+        "artists":[
+          {
+            "artist_credit_name":"Erben der Sch\u00f6pfung",
+            "artist_mbid":"7c06a8cc-6fd6-40d7-b53b-fc7a937171a1",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":42874679491,
+        "caa_release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "listen_count":262,
+        "recording_mbid":"441137da-96c8-4cab-9450-94c873309038",
+        "release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "release_name":"Twilight",
+        "track_name":"Niemand kennt den Tod"
+      },
+      {
+        "artist_mbids":[
+          "21985b14-1b0d-44fe-b357-310b29bba510"
+        ],
+        "artist_name":"Epica",
+        "artists":[
+          {
+            "artist_credit_name":"Epica",
+            "artist_mbid":"21985b14-1b0d-44fe-b357-310b29bba510",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":1014343403,
+        "caa_release_mbid":"8ebbc385-9670-4df4-964d-a5809a8f8b59",
+        "listen_count":241,
+        "recording_mbid":"e945e5d5-890c-4c6c-9847-e9ff40b059b5",
+        "release_mbid":"8ebbc385-9670-4df4-964d-a5809a8f8b59",
+        "release_name":"Consign to Oblivion",
+        "track_name":"Consign to Oblivion (A New Age Dawns, Part 3)"
+      },
+      {
+        "artist_mbids":[
+          "c6b0db5a-d750-4ed8-9caa-ddcfb75dcb0a"
+        ],
+        "artist_name":"Therion",
+        "artists":[
+          {
+            "artist_credit_name":"Therion",
+            "artist_mbid":"c6b0db5a-d750-4ed8-9caa-ddcfb75dcb0a",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":1613512170,
+        "caa_release_mbid":"2ee34d04-00bf-48c3-886a-6829aad095c9",
+        "listen_count":231,
+        "recording_mbid":"dbc350f5-ac41-4ddf-a9b0-8ed5fd0ceea2",
+        "release_mbid":"2ee34d04-00bf-48c3-886a-6829aad095c9",
+        "release_name":"Lemuria",
+        "track_name":"Lemuria"
+      },
+      {
+        "artist_mbids":[
+          "9b5ca9d9-4f3d-4886-b23c-02467a5d277b"
+        ],
+        "artist_name":"Clovis Reyes",
+        "artists":[
+          {
+            "artist_credit_name":"Clovis Reyes",
+            "artist_mbid":"9b5ca9d9-4f3d-4886-b23c-02467a5d277b",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":37557649705,
+        "caa_release_mbid":"9d843250-89f9-4660-9810-f84fd4b30943",
+        "listen_count":224,
+        "recording_mbid":"171346a2-26fc-4dd0-92af-6dabb0f5466a",
+        "release_mbid":"9d843250-89f9-4660-9810-f84fd4b30943",
+        "release_name":"Fluxxwave",
+        "track_name":"Fluxxwave"
+      },
+      {
+        "artist_mbids":[
+          "21985b14-1b0d-44fe-b357-310b29bba510"
+        ],
+        "artist_name":"Epica",
+        "artists":[
+          {
+            "artist_credit_name":"Epica",
+            "artist_mbid":"21985b14-1b0d-44fe-b357-310b29bba510",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":4371842901,
+        "caa_release_mbid":"a47f1057-cdea-41cc-aca5-f478150a85c4",
+        "listen_count":220,
+        "recording_mbid":"7f7879c5-edf1-40e7-9e6f-ddb16292806e",
+        "release_mbid":"a47f1057-cdea-41cc-aca5-f478150a85c4",
+        "release_name":"The Phantom Agony",
+        "track_name":"The Phantom Agony"
+      },
+      {
+        "artist_mbids":[
+          "896becf5-d8eb-4556-9177-15127969abde"
+        ],
+        "artist_name":"Zeigeist",
+        "artists":[
+          {
+            "artist_credit_name":"Zeigeist",
+            "artist_mbid":"896becf5-d8eb-4556-9177-15127969abde",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":null,
+        "caa_release_mbid":null,
+        "listen_count":203,
+        "recording_mbid":"0572dac5-748e-4fc3-9fcf-1f9773b86fae",
+        "release_mbid":"96d2efc0-1481-45e5-9831-62b605a41bda",
+        "release_name":"Neverending Love",
+        "track_name":"Chasing Your Shadow All Around the World"
+      },
+      {
+        "artist_mbids":[
+          "21985b14-1b0d-44fe-b357-310b29bba510"
+        ],
+        "artist_name":"Epica",
+        "artists":[
+          {
+            "artist_credit_name":"Epica",
+            "artist_mbid":"21985b14-1b0d-44fe-b357-310b29bba510",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":4371842901,
+        "caa_release_mbid":"a47f1057-cdea-41cc-aca5-f478150a85c4",
+        "listen_count":196,
+        "recording_mbid":"2624ce1e-7f09-493f-b2a7-0e0104f1f7a7",
+        "release_mbid":"a47f1057-cdea-41cc-aca5-f478150a85c4",
+        "release_name":"The Phantom Agony",
+        "track_name":"Run for a Fall"
+      },
+      {
+        "artist_mbids":[
+          
+        ],
+        "artist_name":"Noah Cyrus, XXXTENTACION",
+        "artists":null,
+        "caa_id":null,
+        "caa_release_mbid":null,
+        "listen_count":196,
+        "recording_mbid":null,
+        "release_mbid":null,
+        "release_name":"Again (feat. XXXTENTACION)",
+        "track_name":"Again (feat. XXXTENTACION)"
+      },
+      {
+        "artist_mbids":[
+          "2e547c75-36c1-49d0-984e-b14498c936f0"
+        ],
+        "artist_name":"Ladyhawke",
+        "artists":[
+          {
+            "artist_credit_name":"Ladyhawke",
+            "artist_mbid":"2e547c75-36c1-49d0-984e-b14498c936f0",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":27143572717,
+        "caa_release_mbid":"c9e5edea-64fe-4734-b88e-4db581565eec",
+        "listen_count":195,
+        "recording_mbid":"ad89d86b-f5c7-47f2-a97a-f2e91a05129a",
+        "release_mbid":"7125fac7-9e2b-4fda-a024-4d379991bc0b",
+        "release_name":"Ladyhawke",
+        "track_name":"Magic"
+      },
+      {
+        "artist_mbids":[
+          "ffb0c195-4aeb-4d33-8936-8aaf78e171ad"
+        ],
+        "artist_name":"The Sins of Thy Beloved",
+        "artists":[
+          {
+            "artist_credit_name":"The Sins of Thy Beloved",
+            "artist_mbid":"ffb0c195-4aeb-4d33-8936-8aaf78e171ad",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":1083905644,
+        "caa_release_mbid":"c5499de2-2eb1-4a05-a58c-66d8fa0bf6c8",
+        "listen_count":190,
+        "recording_mbid":"fd03fa6d-37c6-4eb4-b51e-85af5dee0a6b",
+        "release_mbid":"c5499de2-2eb1-4a05-a58c-66d8fa0bf6c8",
+        "release_name":"Perpetual Desolation",
+        "track_name":"Forever"
+      },
+      {
+        "artist_mbids":[
+          "6b966946-5274-4e3d-aabb-7563814d805f"
+        ],
+        "artist_name":"After Forever",
+        "artists":[
+          {
+            "artist_credit_name":"After Forever",
+            "artist_mbid":"6b966946-5274-4e3d-aabb-7563814d805f",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":928648374,
+        "caa_release_mbid":"bc219e46-3c83-4458-b90d-0337005f4f52",
+        "listen_count":190,
+        "recording_mbid":"1be2a709-9249-4685-998f-e5a58333823e",
+        "release_mbid":"bc219e46-3c83-4458-b90d-0337005f4f52",
+        "release_name":"After Forever",
+        "track_name":"Discord"
+      },
+      {
+        "artist_mbids":[
+          "7c06a8cc-6fd6-40d7-b53b-fc7a937171a1"
+        ],
+        "artist_name":"Erben der Sch\u00f6pfung",
+        "artists":[
+          {
+            "artist_credit_name":"Erben der Sch\u00f6pfung",
+            "artist_mbid":"7c06a8cc-6fd6-40d7-b53b-fc7a937171a1",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":42874679491,
+        "caa_release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "listen_count":189,
+        "recording_mbid":"e3df391a-0fff-4ec6-a23d-c7bee2722638",
+        "release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "release_name":"Twilight",
+        "track_name":"Eine Rose f\u00fcr den Abschied"
+      },
+      {
+        "artist_mbids":[
+          "7c06a8cc-6fd6-40d7-b53b-fc7a937171a1"
+        ],
+        "artist_name":"Erben der Sch\u00f6pfung",
+        "artists":[
+          {
+            "artist_credit_name":"Erben der Sch\u00f6pfung",
+            "artist_mbid":"7c06a8cc-6fd6-40d7-b53b-fc7a937171a1",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":42874679491,
+        "caa_release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "listen_count":189,
+        "recording_mbid":"3594b2b8-9a2b-49d8-9388-ded0993e6f33",
+        "release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "release_name":"Twilight",
+        "track_name":"By My Side"
+      },
+      {
+        "artist_mbids":[
+          "d7686ac4-e73a-4ec8-a8a6-8f33c4af92a3"
+        ],
+        "artist_name":"Elizaveta",
+        "artists":[
+          {
+            "artist_credit_name":"Elizaveta",
+            "artist_mbid":"d7686ac4-e73a-4ec8-a8a6-8f33c4af92a3",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":13397145799,
+        "caa_release_mbid":"12d69457-a2cb-4988-aee5-591a9e195ca5",
+        "listen_count":187,
+        "recording_mbid":"c335f7f5-42e1-48c7-8810-b73145d9db73",
+        "release_mbid":"12d69457-a2cb-4988-aee5-591a9e195ca5",
+        "release_name":"Messenger",
+        "track_name":"Trap (J Paul mix)"
+      },
+      {
+        "artist_mbids":[
+          "7c06a8cc-6fd6-40d7-b53b-fc7a937171a1"
+        ],
+        "artist_name":"Erben der Sch\u00f6pfung",
+        "artists":[
+          {
+            "artist_credit_name":"Erben der Sch\u00f6pfung",
+            "artist_mbid":"7c06a8cc-6fd6-40d7-b53b-fc7a937171a1",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":42874679491,
+        "caa_release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "listen_count":187,
+        "recording_mbid":"a259fadc-9018-4447-a068-1dad3626f6f3",
+        "release_mbid":"a28bb88a-bc7c-3213-b507-4863b8c05d92",
+        "release_name":"Twilight",
+        "track_name":"My Star"
+      },
+      {
+        "artist_mbids":[
+          "2ebb77e0-d931-4344-8270-1822874a06da"
+        ],
+        "artist_name":"Ari Mason",
+        "artists":[
+          {
+            "artist_credit_name":"Ari Mason",
+            "artist_mbid":"2ebb77e0-d931-4344-8270-1822874a06da",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":13197595194,
+        "caa_release_mbid":"a832feca-1381-457f-b344-d1c35102eaed",
+        "listen_count":186,
+        "recording_mbid":"ce2642d7-7c77-468d-992d-919a303c7829",
+        "release_mbid":"a832feca-1381-457f-b344-d1c35102eaed",
+        "release_name":"Creatures",
+        "track_name":"Sleep Still"
+      },
+      {
+        "artist_mbids":[
+          "1b6ce503-df5f-45d5-86cf-54740c30042f"
+        ],
+        "artist_name":"Theatre of Tragedy",
+        "artists":[
+          {
+            "artist_credit_name":"Theatre of Tragedy",
+            "artist_mbid":"1b6ce503-df5f-45d5-86cf-54740c30042f",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":31569824216,
+        "caa_release_mbid":"c829ab16-b278-4cc4-9972-ad7aa3c5828c",
+        "listen_count":180,
+        "recording_mbid":"2aa88955-1c0f-4a81-a4e7-411457dc52bd",
+        "release_mbid":"c829ab16-b278-4cc4-9972-ad7aa3c5828c",
+        "release_name":"A\u00e9gis",
+        "track_name":"Venus"
+      },
+      {
+        "artist_mbids":[
+          "5fcd6db8-979c-42e3-99a6-fd8302f82a9d"
+        ],
+        "artist_name":"Sirenia",
+        "artists":[
+          {
+            "artist_credit_name":"Sirenia",
+            "artist_mbid":"5fcd6db8-979c-42e3-99a6-fd8302f82a9d",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":42814482524,
+        "caa_release_mbid":"48b012cc-c93d-4f54-bec2-37f33ba15812",
+        "listen_count":178,
+        "recording_mbid":"8e609f84-5805-48c9-8f7f-04d9347dec80",
+        "release_mbid":"48b012cc-c93d-4f54-bec2-37f33ba15812",
+        "release_name":"Nine Destinies and a Downfall",
+        "track_name":"The Other Side"
+      },
+      {
+        "artist_mbids":[
+          "db4f5820-cb8d-4605-8913-eaf72006aa08"
+        ],
+        "artist_name":"Oliver Riot",
+        "artists":[
+          {
+            "artist_credit_name":"Oliver Riot",
+            "artist_mbid":"db4f5820-cb8d-4605-8913-eaf72006aa08",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":41311794462,
+        "caa_release_mbid":"42173c08-a6af-4e6a-a437-b49ecad58f2f",
+        "listen_count":176,
+        "recording_mbid":"90d2bc12-1d5a-4d61-995f-14bb46d22f0f",
+        "release_mbid":"42173c08-a6af-4e6a-a437-b49ecad58f2f",
+        "release_name":"Neurosis",
+        "track_name":"Phobia Orgasma"
+      },
+      {
+        "artist_mbids":[
+          "92821be1-6a61-4e61-b918-4ef37ed32f13"
+        ],
+        "artist_name":"Danger Incorporated",
+        "artists":[
+          {
+            "artist_credit_name":"Danger Incorporated",
+            "artist_mbid":"92821be1-6a61-4e61-b918-4ef37ed32f13",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":26429759135,
+        "caa_release_mbid":"91debe6d-b374-4014-a014-11c163dbedc9",
+        "listen_count":175,
+        "recording_mbid":"6112de1d-7353-4dab-a4f2-af89140ea888",
+        "release_mbid":"91debe6d-b374-4014-a014-11c163dbedc9",
+        "release_name":"Are You Afraid of the Danger Boys?",
+        "track_name":"Forever"
+      },
+      {
+        "artist_mbids":[
+          "1b6ce503-df5f-45d5-86cf-54740c30042f"
+        ],
+        "artist_name":"Theatre of Tragedy",
+        "artists":[
+          {
+            "artist_credit_name":"Theatre of Tragedy",
+            "artist_mbid":"1b6ce503-df5f-45d5-86cf-54740c30042f",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":31569824216,
+        "caa_release_mbid":"c829ab16-b278-4cc4-9972-ad7aa3c5828c",
+        "listen_count":175,
+        "recording_mbid":"05a8f2fe-756e-4fa3-bb64-a775b0cd691a",
+        "release_mbid":"c829ab16-b278-4cc4-9972-ad7aa3c5828c",
+        "release_name":"A\u00e9gis",
+        "track_name":"Cassandra"
+      },
+      {
+        "artist_mbids":[
+          "21985b14-1b0d-44fe-b357-310b29bba510"
+        ],
+        "artist_name":"Epica",
+        "artists":[
+          {
+            "artist_credit_name":"Epica",
+            "artist_mbid":"21985b14-1b0d-44fe-b357-310b29bba510",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":14972138016,
+        "caa_release_mbid":"532bd9cf-0ae1-4234-a7e7-7f403569ffe1",
+        "listen_count":172,
+        "recording_mbid":"741ef7a8-59e5-432a-a62d-4e032ea0f9b9",
+        "release_mbid":"532bd9cf-0ae1-4234-a7e7-7f403569ffe1",
+        "release_name":"Design Your Universe",
+        "track_name":"Martyr of the Free Word"
+      },
+      {
+        "artist_mbids":[
+          "84f246f7-663b-40cf-a66f-336e8b314836"
+        ],
+        "artist_name":"Zella Day",
+        "artists":[
+          {
+            "artist_credit_name":"Zella Day",
+            "artist_mbid":"84f246f7-663b-40cf-a66f-336e8b314836",
+            "join_phrase":""
+          }
+        ],
+        "caa_id":16586490788,
+        "caa_release_mbid":"4d018617-e455-4b10-aee6-cf0373cb5b57",
+        "listen_count":167,
+        "recording_mbid":"dc3aa2fd-6232-4224-845e-8d53f67de726",
+        "release_mbid":"4d018617-e455-4b10-aee6-cf0373cb5b57",
+        "release_name":"Kicker",
+        "track_name":"Hypnotic"
+      },
+      {
+        "artist_mbids":[
+          
+        ],
+        "artist_name":"R. Missing",
+        "artists":null,
+        "caa_id":null,
+        "caa_release_mbid":null,
+        "listen_count":167,
+        "recording_mbid":null,
+        "release_mbid":null,
+        "release_name":"Anomie by the Lake",
+        "track_name":"Anomie by the Lake"
+      }
+    ],
+    "to_ts":1768694519,
+    "total_recording_count":8154,
+    "user_id":"wezencm"
+  }
+}

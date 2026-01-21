@@ -21,5 +21,5 @@ Map<String, dynamic> _$FetchedFeedbacksToJson(FetchedFeedbacks instance) =>
       'count': instance.count,
       'offset': instance.offset,
       'total_count': instance.totalCount,
-      'feedback': instance.feedback,
+      'feedback': instance.feedback.map((e) => e.toJson()).toList(),
     };

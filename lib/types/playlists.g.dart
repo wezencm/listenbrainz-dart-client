@@ -20,7 +20,7 @@ Map<String, dynamic> _$PlaylistApiResponseToJson(
     <String, dynamic>{
       'count': instance.count,
       'playlist_count': instance.playlistCount,
-      'playlists': instance.playlists,
+      'playlists': instance.playlists.map((e) => e.toJson()).toList(),
     };
 
 PlaylistPayload _$PlaylistPayloadFromJson(Map<String, dynamic> json) =>
@@ -30,7 +30,7 @@ PlaylistPayload _$PlaylistPayloadFromJson(Map<String, dynamic> json) =>
 
 Map<String, dynamic> _$PlaylistPayloadToJson(PlaylistPayload instance) =>
     <String, dynamic>{
-      'playlist': instance.playlist,
+      'playlist': instance.playlist.toJson(),
     };
 
 Playlist _$PlaylistFromJson(Map<String, dynamic> json) => Playlist(
@@ -63,8 +63,8 @@ Map<String, dynamic> _$PlaylistToJson(Playlist instance) {
   writeNotNull('date', instance.date?.toIso8601String());
   val['identifier'] = Playlist._idToJson(instance.identifier);
   writeNotNull('title', instance.title);
-  writeNotNull('track', instance.track);
-  writeNotNull('extension', instance.extension);
+  writeNotNull('track', instance.track?.map((e) => e.toJson()).toList());
+  writeNotNull('extension', instance.extension?.toJson());
   return val;
 }
 
@@ -72,6 +72,8 @@ PlaylistTrack _$PlaylistTrackFromJson(Map<String, dynamic> json) =>
     PlaylistTrack(
       title: json['title'] as String?,
       identifier: PlaylistTrack._idFromJson(json['identifier'] as List),
+      duration:
+          PlaylistTrack._durationFromJson((json['duration'] as num?)?.toInt()),
       creator: json['creator'] as String?,
       album: json['album'] as String?,
       extension: json['extension'] == null
@@ -90,9 +92,10 @@ Map<String, dynamic> _$PlaylistTrackToJson(PlaylistTrack instance) {
 
   writeNotNull('title', instance.title);
   val['identifier'] = PlaylistTrack._idToJson(instance.identifier);
+  writeNotNull('duration', PlaylistTrack._durationToJson(instance.duration));
   writeNotNull('creator', instance.creator);
   writeNotNull('album', instance.album);
-  writeNotNull('extension', instance.extension);
+  writeNotNull('extension', instance.extension?.toJson());
   return val;
 }
 
@@ -116,7 +119,7 @@ Map<String, dynamic> _$TrackExtensionToJson(TrackExtension instance) {
   }
 
   writeNotNull('https://musicbrainz.org/doc/jspf#track',
-      instance.musicBrainzTrackExtension);
+      instance.musicBrainzTrackExtension?.toJson());
   return val;
 }
 
@@ -128,7 +131,7 @@ MusicBrainzTrackExtension _$MusicBrainzTrackExtensionFromJson(
           ? null
           : DateTime.parse(json['added_at'] as String),
       releaseIdentifier: MusicBrainzTrackExtension._releaseIdentifierIdFromJson(
-          json['release_identifier'] as String),
+          json['release_identifier'] as String?),
       artistIdentifiers: MusicBrainzTrackExtension._artistIdentifierIdFromJson(
           json['artist_identifiers'] as List),
       additionalMetadata: json['additional_metadata'] as Map<String, dynamic>?,
@@ -147,9 +150,10 @@ Map<String, dynamic> _$MusicBrainzTrackExtensionToJson(
   writeNotNull('added_by', instance.addedBy);
   writeNotNull('added_at', instance.addedAt?.toIso8601String());
   writeNotNull('additional_metadata', instance.additionalMetadata);
-  val['release_identifier'] =
+  writeNotNull(
+      'release_identifier',
       MusicBrainzTrackExtension._releaseIdentifierIdToJson(
-          instance.releaseIdentifier);
+          instance.releaseIdentifier));
   val['artist_identifiers'] =
       MusicBrainzTrackExtension._artistIdentifierIdToJson(
           instance.artistIdentifiers);
@@ -176,7 +180,7 @@ Map<String, dynamic> _$PlaylistExtensionToJson(PlaylistExtension instance) {
   }
 
   writeNotNull('https://musicbrainz.org/doc/jspf#playlist',
-      instance.musicBrainzPlaylistExtension);
+      instance.musicBrainzPlaylistExtension?.toJson());
   return val;
 }
 

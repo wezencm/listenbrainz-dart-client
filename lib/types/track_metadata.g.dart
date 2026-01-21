@@ -37,9 +37,10 @@ Map<String, dynamic> _$TrackMetadataToJson(TrackMetadata instance) {
   }
 
   writeNotNull('release_name', instance.releaseName);
-  writeNotNull('additional_info', instance.additionalInfo);
-  writeNotNull('brainz_player_metadata', instance.brainzPlayerMetadata);
-  writeNotNull('mbid_mapping', instance.mbidMapping);
+  writeNotNull('additional_info', instance.additionalInfo?.toJson());
+  writeNotNull(
+      'brainz_player_metadata', instance.brainzPlayerMetadata?.toJson());
+  writeNotNull('mbid_mapping', instance.mbidMapping?.toJson());
   return val;
 }
 
