@@ -1,3 +1,12 @@
+## 1.2.0
+
+- Implements the Statistics endpoints.
+
+- Fix a bug on the json converter that was generating wrong datetimes.
+
+- The `Playlist` the now has a `duration` field.
+- The `Playlist.releaseIdentifier` is now nullable.
+
 ## 1.1.1
 
 - Fixed a bug on Aux.matchSongMusicBrainz() always returning `null`.
